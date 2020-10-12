@@ -1,1111 +1,1537 @@
 #EXTM3U
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/1CP",A&E FHD
-http://psrv.io:80/883698111244/blendediptv.me/18858
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/uuz",A&E FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22213
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/SDH",A&E HD
-http://psrv.io:80/883698111244/blendediptv.me/18738
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/o9i",A&E SD
-http://psrv.io:80/883698111244/blendediptv.me/18739
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/PFh",AMC FHD
-http://psrv.io:80/883698111244/blendediptv.me/18857
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/GcF",AMC FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22212
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/5Gw",AMC HD
-http://psrv.io:80/883698111244/blendediptv.me/18736
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/6ZV",AMC SD
-http://psrv.io:80/883698111244/blendediptv.me/18737
+#EXTINF:-1 ,#EVENTOS 01
+http://pfsv.io:80/015029529493/blendediptv.me/33377
+#EXTINF:-1 ,#EVENTOS 02
+http://pfsv.io:80/015029529493/blendediptv.me/33399
+#EXTINF:-1 ,#EVENTOS 03
+http://pfsv.io:80/015029529493/blendediptv.me/33400
+#EXTINF:-1 ,#EVENTOS 04
+http://pfsv.io:80/015029529493/blendediptv.me/33401
+#EXTINF:-1 ,#EVENTOS 05
+http://pfsv.io:80/015029529493/blendediptv.me/33402
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/uuz",A&E FHD
+http://pfsv.io:80/015029529493/blendediptv.me/293
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="LINK_LOGO",A&E FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30227
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/uuz",A&E HD
+http://pfsv.io:80/015029529493/blendediptv.me/299
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/uuz",A&E SD
+http://pfsv.io:80/015029529493/blendediptv.me/324
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/GcF",AMC FHD
+http://pfsv.io:80/015029529493/blendediptv.me/294
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="LINK_LOGO",AMC FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30228
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/GcF",AMC HD
+http://pfsv.io:80/015029529493/blendediptv.me/300
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/GcF",AMC SD
+http://pfsv.io:80/015029529493/blendediptv.me/325
 #EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/slU",Animal Planet FHD
-http://psrv.io:80/883698111244/blendediptv.me/18856
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/aPp",Animal Planet FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22211
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/BZz",Animal Planet HD
-http://psrv.io:80/883698111244/blendediptv.me/18734
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/fjU",Animal Planet SD
-http://psrv.io:80/883698111244/blendediptv.me/18735
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://z4.vc/s04",ANIMAL PLANET [4K]
-http://psrv.io:80/883698111244/blendediptv.me/26189
+http://pfsv.io:80/015029529493/blendediptv.me/164
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="LINK_LOGO",Animal Planet FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30248
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/slU",Animal Planet HD
+http://pfsv.io:80/015029529493/blendediptv.me/179
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/slU",Animal Planet SD
+http://pfsv.io:80/015029529493/blendediptv.me/194
+#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://p6.vc/f0e",Animal Planet [4K]
+http://pfsv.io:80/015029529493/blendediptv.me/588
 #EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/I6b",Arte 1 FHD
-http://psrv.io:80/883698111244/blendediptv.me/18855
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/Vfq",Arte 1 HD
-http://psrv.io:80/883698111244/blendediptv.me/27884
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/rpV",AXN FHD
-http://psrv.io:80/883698111244/blendediptv.me/18854
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/ItW",AXN FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22210
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/j1K",AXN HD
-http://psrv.io:80/883698111244/blendediptv.me/18730
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/qfK",AXN SD
-http://psrv.io:80/883698111244/blendediptv.me/18731
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/k3q",BabyTV SD
-http://psrv.io:80/883698111244/blendediptv.me/18729
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/68l",Band Bahia SD
-http://psrv.io:80/883698111244/blendediptv.me/28060
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/SV1",Band SD
-http://psrv.io:80/883698111244/blendediptv.me/22242
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/68l",Band Sergipe HD
-http://psrv.io:80/883698111244/blendediptv.me/22476
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/iGF",Band SP FHD
-http://psrv.io:80/883698111244/blendediptv.me/18786
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/wHL",Band Goiania FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/25249
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/X0u",Band SP HD
-http://psrv.io:80/883698111244/blendediptv.me/18727
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/xaf",Band SP SD
-http://psrv.io:80/883698111244/blendediptv.me/18728
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://z4.vc/ocG",BAND [4K]
-http://psrv.io:80/883698111244/blendediptv.me/26179
-#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://z4.vc/jeQ",BandNews FHD
-http://psrv.io:80/883698111244/blendediptv.me/18853
-#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://z4.vc/vx0",BandNews FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22152
-#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://z4.vc/COC",BandNews HD
-http://psrv.io:80/883698111244/blendediptv.me/18725
-#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://z4.vc/mps",BandNews SD
-http://psrv.io:80/883698111244/blendediptv.me/18726
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/7yf",BandSports FHD
-http://psrv.io:80/883698111244/blendediptv.me/18852
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/mPu",BandSports FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22151
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/0ev",BandSports HD
-http://psrv.io:80/883698111244/blendediptv.me/18723
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/ral",BandSports SD
-http://psrv.io:80/883698111244/blendediptv.me/18724
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/UIf",Bis FHD
-http://psrv.io:80/883698111244/blendediptv.me/18785
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/XaE",Bis FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22150
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/PAl",Bis HD
-http://psrv.io:80/883698111244/blendediptv.me/18721
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/ybv",Bis SD
-http://psrv.io:80/883698111244/blendediptv.me/18722
-#EXTINF:-1 group-title="Canais | Internacionais",Bloomberg Television
-http://psrv.io:80/883698111244/blendediptv.me/28159
-#EXTINF:-1 group-title="Canais | Internacionais",[ES] Canal Sur Flamenco
-http://psrv.io:80/883698111244/blendediptv.me/28166
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/6f2",Boomerang FHD
-http://psrv.io:80/883698111244/blendediptv.me/18851
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/DAg",Boomerang FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/25317
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/BLS",Boomerang HD
-http://psrv.io:80/883698111244/blendediptv.me/18718
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/H1Y",Boomerang SD
-http://psrv.io:80/883698111244/blendediptv.me/18719
-#EXTINF:-1 group-title="Canais | Internacionais",CANAL 26 ARGENTINA HD
-http://psrv.io:80/883698111244/blendediptv.me/26427
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/UqA",Canal Brasil FHD
-http://psrv.io:80/883698111244/blendediptv.me/18753
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/bUk",Canal Brasil FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/25316
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/GsJ",Canal Brasil HD
-http://psrv.io:80/883698111244/blendediptv.me/18716
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/kWm",Canal Brasil SD
-http://psrv.io:80/883698111244/blendediptv.me/18717
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/0Tm",Cancao Nova SD
-http://psrv.io:80/883698111244/blendediptv.me/18713
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/gGw",Cartoon Network FHD
-http://psrv.io:80/883698111244/blendediptv.me/18849
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/6WN",Cartoon Network FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/25314
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/Brc",Cartoon Network HD
-http://psrv.io:80/883698111244/blendediptv.me/18711
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/BjV",Cartoon Network SD
-http://psrv.io:80/883698111244/blendediptv.me/18712
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://z4.vc/Mqt",CARTOON NETWORK [4K]
-http://psrv.io:80/883698111244/blendediptv.me/26408
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/IbR",Cinemax FHD
-http://psrv.io:80/883698111244/blendediptv.me/18848
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/i31",Cinemax FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/25313
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/Lo1",Cinemax HD
-http://psrv.io:80/883698111244/blendediptv.me/18709
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/ZLC",Cinemax SD
-http://psrv.io:80/883698111244/blendediptv.me/18710
+http://pfsv.io:80/015029529493/blendediptv.me/165
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="LINK_LOGO",Arte 1 FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30249
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/I6b",Arte 1 HD
+http://pfsv.io:80/015029529493/blendediptv.me/180
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/I6b",Arte 1 SD
+http://pfsv.io:80/015029529493/blendediptv.me/195
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/ItW",AXN FHD
+http://pfsv.io:80/015029529493/blendediptv.me/295
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="LINK_LOGO",AXN FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30206
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/ItW",AXN HD
+http://pfsv.io:80/015029529493/blendediptv.me/301
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="LINK_LOGO",AXN HD [LEG]
+http://pfsv.io:80/015029529493/blendediptv.me/209
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/ItW",AXN SD
+http://pfsv.io:80/015029529493/blendediptv.me/326
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="LINK_LOGO",AXN SD [LEG]
+http://pfsv.io:80/015029529493/blendediptv.me/210
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/k3q",Baby TV SD
+http://pfsv.io:80/015029529493/blendediptv.me/149
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/SV1",BAND Campinas SD
+http://pfsv.io:80/015029529493/blendediptv.me/32537
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://p6.vc/fZ6",BAND FHD [H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30181
+#EXTINF:-1 group-title="Canais | Notícias",Band Internacional
+http://pfsv.io:80/015029529493/blendediptv.me/518
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://p6.vc/fZ2",Band News FHD
+http://pfsv.io:80/015029529493/blendediptv.me/510
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://p6.vc/fZ2",Band News FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30195
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://p6.vc/fZ2",Band News HD
+http://pfsv.io:80/015029529493/blendediptv.me/514
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://p6.vc/fZ2",Band News SD
+http://pfsv.io:80/015029529493/blendediptv.me/520
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/SV1",BAND Nordeste SD
+http://pfsv.io:80/015029529493/blendediptv.me/32538
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/68l",Band SP FHD
+http://pfsv.io:80/015029529493/blendediptv.me/44
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/68l",Band SP HD
+http://pfsv.io:80/015029529493/blendediptv.me/50
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/68l",Band SP SD
+http://pfsv.io:80/015029529493/blendediptv.me/65
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/mPu",Band Sport FHD
+http://pfsv.io:80/015029529493/blendediptv.me/247
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="LINK_LOGO",Band Sports FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30275
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/mPu",Band Sports HD
+http://pfsv.io:80/015029529493/blendediptv.me/256
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/mPu",Band Sports HD
+http://pfsv.io:80/015029529493/blendediptv.me/265
+#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://p6.vc/fZ6",Band SP [4K]
+http://pfsv.io:80/015029529493/blendediptv.me/580
+#EXTINF:-1 group-title="Art & Music",BIS  FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30177
+#EXTINF:-1 group-title="Art & Music" tvg-logo="http://z4.vc/XaE",BIS FHD
+http://pfsv.io:80/015029529493/blendediptv.me/5
+#EXTINF:-1 group-title="Art & Music" tvg-logo="http://z4.vc/XaE",BIS HD
+http://pfsv.io:80/015029529493/blendediptv.me/18
+#EXTINF:-1 group-title="Art & Music" tvg-logo="http://z4.vc/XaE",BIS SD
+http://pfsv.io:80/015029529493/blendediptv.me/12
+#EXTINF:-1 group-title="Canais | Religiosos" tvg-logo="LINK_LOGO",Boa Vontade FHD
+http://pfsv.io:80/015029529493/blendediptv.me/546
+#EXTINF:-1 group-title="Canais | Religiosos",BOA VONTADE FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30295
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/DAg",BooMerang FHD
+http://pfsv.io:80/015029529493/blendediptv.me/125
+#EXTINF:-1 group-title="Canais | Infantis",BOOMERANG H265
+http://pfsv.io:80/015029529493/blendediptv.me/30267
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/DAg",Boomerang HD
+http://pfsv.io:80/015029529493/blendediptv.me/138
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/DAg",Boomerang SD
+http://pfsv.io:80/015029529493/blendediptv.me/150
+#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://p6.vc/fZ7",Combate [4K]
+http://pfsv.io:80/015029529493/blendediptv.me/581
+#EXTINF:-1 group-title="Canais | Jogos & Eventos",CAMPEONATO CATARINENSE 02
+http://pfsv.io:80/015029529493/blendediptv.me/35086
+#EXTINF:-1 group-title="Canais | Jogos & Eventos",CAMPEONATO CATARINENSE 02
+http://pfsv.io:80/015029529493/blendediptv.me/35087
+#EXTINF:-1 group-title="Canais | Jogos & Eventos",CAMPEONATO CATARINENSE 03
+http://pfsv.io:80/015029529493/blendediptv.me/35088
+#EXTINF:-1 group-title="Canais | Jogos & Eventos",CAMPEONATO CATARINENSE 04
+http://pfsv.io:80/015029529493/blendediptv.me/35089
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/bUk",Canal Brasil FHD
+http://pfsv.io:80/015029529493/blendediptv.me/298
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/bUk",Canal Brasil FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30233
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/bUk",Canal Brasil HD
+http://pfsv.io:80/015029529493/blendediptv.me/322
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/bUk",Canal Brasil SD
+http://pfsv.io:80/015029529493/blendediptv.me/349
+#EXTINF:-1 group-title="Canais | Abertos",Canal do Boi SD
+http://pfsv.io:80/015029529493/blendediptv.me/83
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/C3a",Canal Rural SD
+http://pfsv.io:80/015029529493/blendediptv.me/81
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/FM8",Canal Sony FHD
+http://pfsv.io:80/015029529493/blendediptv.me/274
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/FM8",Canal Sony HD
+http://pfsv.io:80/015029529493/blendediptv.me/302
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/FM8",Canal Sony SD
+http://pfsv.io:80/015029529493/blendediptv.me/327
+#EXTINF:-1 group-title="Canais | Religiosos",Cancao Nova HD
+http://pfsv.io:80/015029529493/blendediptv.me/33379
+#EXTINF:-1 group-title="Canais | Religiosos" tvg-logo="LINK_LOGO",Cancao Nova SD
+http://pfsv.io:80/015029529493/blendediptv.me/552
+#EXTINF:-1 group-title="Canais | Infantis",Cartoon Network FHD [H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30268
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/6WN",Cartoon Network FHD
+http://pfsv.io:80/015029529493/blendediptv.me/126
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/6WN",Cartoon Network HD
+http://pfsv.io:80/015029529493/blendediptv.me/139
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/6WN",Cartoon Network SD
+http://pfsv.io:80/015029529493/blendediptv.me/151
+#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://p6.vc/f0h",Cartoon Network [4K]
+http://pfsv.io:80/015029529493/blendediptv.me/591
+#EXTINF:-1 group-title="Canais | Jogos & Eventos" tvg-logo="LINK_LOGO",Catarinense 01
+http://pfsv.io:80/015029529493/blendediptv.me/502
+#EXTINF:-1 group-title="Canais | Jogos & Eventos" tvg-logo="LINK_LOGO",Catarinense 02
+http://pfsv.io:80/015029529493/blendediptv.me/503
+#EXTINF:-1 group-title="Canais | Variedades",Chef TV HD
+http://pfsv.io:80/015029529493/blendediptv.me/32543
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/i31",Cinemax FHD
+http://pfsv.io:80/015029529493/blendediptv.me/275
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="LINK_LOGO",Cinemax FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30215
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/i31",CineMax HD
+http://pfsv.io:80/015029529493/blendediptv.me/303
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/i31",Cinemax SD
+http://pfsv.io:80/015029529493/blendediptv.me/328
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://p6.vc/fZ5",CNN Brasil FHD
+http://pfsv.io:80/015029529493/blendediptv.me/513
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://p6.vc/fZ5",CNN Brasil FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30198
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://p6.vc/fZ5",CNN Brasil HD
+http://pfsv.io:80/015029529493/blendediptv.me/517
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://p6.vc/fZ5",CNN Brasil SD
+http://pfsv.io:80/015029529493/blendediptv.me/523
 #EXTINF:-1 group-title="Canais | Internacionais",CNN INTERNACIONAL SD
-http://psrv.io:80/883698111244/blendediptv.me/26438
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/2Bh",Combate FHD
-http://psrv.io:80/883698111244/blendediptv.me/18784
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/na3",Combate FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/25312
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/ids",Combate HD
-http://psrv.io:80/883698111244/blendediptv.me/18707
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/jLd",Combate SD
-http://psrv.io:80/883698111244/blendediptv.me/18708
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://z4.vc/E0D",COMBATE [4K]
-http://psrv.io:80/883698111244/blendediptv.me/26180
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/0Ww",Comedy Central FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/25311
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/qUw",Comedy Central HD
-http://psrv.io:80/883698111244/blendediptv.me/18705
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/RrZ",Comedy Central SD
-http://psrv.io:80/883698111244/blendediptv.me/18706
+http://pfsv.io:80/015029529493/blendediptv.me/33405
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/na3",Combate FHD
+http://pfsv.io:80/015029529493/blendediptv.me/249
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="LINK_LOGO",Combate FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30276
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/na3",COMBATE HD
+http://pfsv.io:80/015029529493/blendediptv.me/257
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/na3",Combate SD
+http://pfsv.io:80/015029529493/blendediptv.me/266
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/0Ww",Comedy Central FHD
+http://pfsv.io:80/015029529493/blendediptv.me/97
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://p6.vc/f0u",Comedy Central FHD [H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30191
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/0Ww",Comedy Central HD
+http://pfsv.io:80/015029529493/blendediptv.me/106
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/0Ww",Comedy Central SD
+http://pfsv.io:80/015029529493/blendediptv.me/115
+#EXTINF:-1 group-title="Canais | Jogos & Eventos",COPA DO NORDESTE 01
+http://pfsv.io:80/015029529493/blendediptv.me/35085
+#EXTINF:-1 group-title="Canais | Jogos & Eventos",Copa do Nordeste 01[ALTER]
+http://pfsv.io:80/015029529493/blendediptv.me/35070
+#EXTINF:-1 group-title="Canais | Jogos & Eventos",COPA DO NORDESTE 02 [ALTER2]
+http://pfsv.io:80/015029529493/blendediptv.me/35090
+#EXTINF:-1 group-title="Canais | Jogos & Eventos",Copa do Nordeste 02[ALTER]
+http://pfsv.io:80/015029529493/blendediptv.me/35071
+#EXTINF:-1 group-title="Canais | Jogos & Eventos",COPA DO NORDESTE 03 [ALTER2]
+http://pfsv.io:80/015029529493/blendediptv.me/35091
+#EXTINF:-1 group-title="Canais | Jogos & Eventos",Copa do Nordeste 03[ALTER]
+http://pfsv.io:80/015029529493/blendediptv.me/35072
+#EXTINF:-1 group-title="Canais | Jogos & Eventos",COPA DO NORDESTE 04 [ALTER2]
+http://pfsv.io:80/015029529493/blendediptv.me/35092
+#EXTINF:-1 group-title="Canais | Jogos & Eventos",Copa do Nordeste 04[ALTER]
+http://pfsv.io:80/015029529493/blendediptv.me/35073
+#EXTINF:-1 group-title="Canais | Jogos & Eventos" tvg-logo="LINK_LOGO",Copa Libertadores HD
+http://pfsv.io:80/015029529493/blendediptv.me/490
+#EXTINF:-1 group-title="Canais | Jogos & Eventos" tvg-logo="LINK_LOGO",Copa Nordeste 1
+http://pfsv.io:80/015029529493/blendediptv.me/492
+#EXTINF:-1 group-title="Canais | Jogos & Eventos" tvg-logo="LINK_LOGO",Copa Nordeste 2
+http://pfsv.io:80/015029529493/blendediptv.me/493
+#EXTINF:-1 group-title="Canais | Jogos & Eventos" tvg-logo="LINK_LOGO",Copa Nordeste 3
+http://pfsv.io:80/015029529493/blendediptv.me/494
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/fVn",Curta! FHD
+http://pfsv.io:80/015029529493/blendediptv.me/98
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://p6.vc/f0v",Curta! FHD [H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30192
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/fVn",Curta! HD
+http://pfsv.io:80/015029529493/blendediptv.me/107
 #EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/fVn",Curta! SD
-http://psrv.io:80/883698111244/blendediptv.me/18704
-#EXTINF:-1 group-title="Canais | Jogos & Eventos" tvg-logo="http://z4.vc/162",DAZN  CHANNEL 1
-http://psrv.io:80/883698111244/blendediptv.me/26195
-#EXTINF:-1 group-title="Canais | Jogos & Eventos" tvg-logo="http://z4.vc/Pjc",DAZN CHANNEL 2
-http://psrv.io:80/883698111244/blendediptv.me/26197
-#EXTINF:-1 group-title="Canais | Jogos & Eventos" tvg-logo="http://z4.vc/Wp3",DAZN CHANNEL 3
-http://psrv.io:80/883698111244/blendediptv.me/26196
-#EXTINF:-1 group-title="Canais | Jogos & Eventos" tvg-logo="http://z4.vc/162",DAZN CHANNEL 4
-http://psrv.io:80/883698111244/blendediptv.me/28387
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/Y5D",Discovery Channel FHD
-http://psrv.io:80/883698111244/blendediptv.me/18783
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/0v1",Discovery Channel FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22204
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/W6B",Discovery Channel HD
-http://psrv.io:80/883698111244/blendediptv.me/18701
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/4mU",Discovery Channel SD
-http://psrv.io:80/883698111244/blendediptv.me/18702
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://z4.vc/o8B",DISCOVERY CHANNEL [4K]
-http://psrv.io:80/883698111244/blendediptv.me/26185
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/cEF",Discovery H&H FHD
-http://psrv.io:80/883698111244/blendediptv.me/18844
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/y3l",Discovery H&H FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22148
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/nXL",Discovery H&H HD
-http://psrv.io:80/883698111244/blendediptv.me/18697
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/91r",Discovery H&H SD
-http://psrv.io:80/883698111244/blendediptv.me/18698
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/oNt",Discovery Kids FHD
-http://psrv.io:80/883698111244/blendediptv.me/18843
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/Eoe",Discovery Kids FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22202
+http://pfsv.io:80/015029529493/blendediptv.me/116
+#EXTINF:-1 group-title="Canais | Jogos & Eventos",DAZN 01
+http://pfsv.io:80/015029529493/blendediptv.me/35076
+#EXTINF:-1 group-title="Canais | Jogos & Eventos",DAZN 01[ALTER]
+http://pfsv.io:80/015029529493/blendediptv.me/35074
+#EXTINF:-1 group-title="Canais | Jogos & Eventos",DAZN 02
+http://pfsv.io:80/015029529493/blendediptv.me/35077
+#EXTINF:-1 group-title="Canais | Jogos & Eventos",DAZN 02[ALTER]
+http://pfsv.io:80/015029529493/blendediptv.me/35075
+#EXTINF:-1 group-title="Canais | Jogos & Eventos",DAZN 03
+http://pfsv.io:80/015029529493/blendediptv.me/35078
+#EXTINF:-1 group-title="Canais | Jogos & Eventos",DAZN 04
+http://pfsv.io:80/015029529493/blendediptv.me/35079
+#EXTINF:-1 group-title="Canais | Jogos & Eventos",DAZN 05
+http://pfsv.io:80/015029529493/blendediptv.me/35080
+#EXTINF:-1 group-title="Canais | Jogos & Eventos" tvg-logo="LINK_LOGO",DAZN 1
+http://pfsv.io:80/015029529493/blendediptv.me/504
+#EXTINF:-1 group-title="Canais | Jogos & Eventos" tvg-logo="LINK_LOGO",DAZN 2
+http://pfsv.io:80/015029529493/blendediptv.me/505
+#EXTINF:-1 group-title="Canais | Jogos & Eventos" tvg-logo="LINK_LOGO",DAZN 3
+http://pfsv.io:80/015029529493/blendediptv.me/506
+#EXTINF:-1 group-title="Canais | Jogos & Eventos" tvg-logo="LINK_LOGO",DAZN 4
+http://pfsv.io:80/015029529493/blendediptv.me/507
+#EXTINF:-1 group-title="Canais | Jogos & Eventos" tvg-logo="LINK_LOGO",DAZN 5
+http://pfsv.io:80/015029529493/blendediptv.me/508
+#EXTINF:-1 group-title="Canais | Jogos & Eventos" tvg-logo="LINK_LOGO",DAZN 6
+http://pfsv.io:80/015029529493/blendediptv.me/509
+#EXTINF:-1 group-title="Canais | Infantis",Discovery KIDS [H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30269
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/0v1",Discovery Channel FHD
+http://pfsv.io:80/015029529493/blendediptv.me/166
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="LINK_LOGO",Discovery Channel FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30260
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/0v1",Discovery Channel HD
+http://pfsv.io:80/015029529493/blendediptv.me/181
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="LINK_LOGO",Discovery Channel Science FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30255
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/0v1",Discovery Channel SD
+http://pfsv.io:80/015029529493/blendediptv.me/196
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="LINK_LOGO",Discovery Channel Theater FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30256
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/1cS",Discovery Channel Turbo FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30257
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="LINK_LOGO",Discovery Channel World FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30258
+#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://p6.vc/f0b",Discovery Channel [4K]
+http://pfsv.io:80/015029529493/blendediptv.me/585
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/y3l",Discovery Home & Health FHD
+http://pfsv.io:80/015029529493/blendediptv.me/168
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/y3l",Discovery Home & Health HD
+http://pfsv.io:80/015029529493/blendediptv.me/183
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/y3l",Discovery Home & Health SD
+http://pfsv.io:80/015029529493/blendediptv.me/198
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/y3l",Discovery Home&Health FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30254
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/N8Y",Discovery Kids FHD
+http://pfsv.io:80/015029529493/blendediptv.me/127
 #EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/N8Y",Discovery Kids HD
-http://psrv.io:80/883698111244/blendediptv.me/22325
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/bfd",Discovery Science FHD
-http://psrv.io:80/883698111244/blendediptv.me/18842
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/KAc",Discovery Science FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22201
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/rQr",Discovery Science HD
-http://psrv.io:80/883698111244/blendediptv.me/18693
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/fV1",Discovery Science SD
-http://psrv.io:80/883698111244/blendediptv.me/18694
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/m7Y",Discovery Theater FHD
-http://psrv.io:80/883698111244/blendediptv.me/18841
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/9eJ",Discovery Theater FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22200
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/FSs",Discovery Theater HD
-http://psrv.io:80/883698111244/blendediptv.me/18691
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/9oW",Discovery Theater SD
-http://psrv.io:80/883698111244/blendediptv.me/18692
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/oAo",Discovery Turbo FHD
-http://psrv.io:80/883698111244/blendediptv.me/18840
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/1cS",Discovery Turbo FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22131
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/AsO",Discovery Turbo HD
-http://psrv.io:80/883698111244/blendediptv.me/18689
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/Vy0",Discovery Turbo SD
-http://psrv.io:80/883698111244/blendediptv.me/18690
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/x0i",Discovery World FHD
-http://psrv.io:80/883698111244/blendediptv.me/18839
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/4Yx",Discovery World FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22130
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/SxE",Discovery World HD
-http://psrv.io:80/883698111244/blendediptv.me/18687
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/x5l",Discovery World SD
-http://psrv.io:80/883698111244/blendediptv.me/18688
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/eri",Disney FHD
-http://psrv.io:80/883698111244/blendediptv.me/18782
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/k3R",Disney FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22147
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/COA",Disney HD
-http://psrv.io:80/883698111244/blendediptv.me/18685
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/Cgg",Disney Junior FHD
-http://psrv.io:80/883698111244/blendediptv.me/18788
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/pw6",Disney Junior FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22146
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/67y",Disney Junior HD
-http://psrv.io:80/883698111244/blendediptv.me/18509
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/3Vd",Disney Junior SD
-http://psrv.io:80/883698111244/blendediptv.me/18684
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/Vjj",Disney SD
-http://psrv.io:80/883698111244/blendediptv.me/18686
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/6MT",Disney SD
-http://psrv.io:80/883698111244/blendediptv.me/22323
+http://pfsv.io:80/015029529493/blendediptv.me/140
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/N8Y",Discovery Kids SD
+http://pfsv.io:80/015029529493/blendediptv.me/152
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/KAc",Discovery Science FHD
+http://pfsv.io:80/015029529493/blendediptv.me/169
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/KAc",Discovery Science HD
+http://pfsv.io:80/015029529493/blendediptv.me/184
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/KAc",Discovery Science SD
+http://pfsv.io:80/015029529493/blendediptv.me/199
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/9eJ",Discovery Theater FHD
+http://pfsv.io:80/015029529493/blendediptv.me/170
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/9eJ",Discovery Theater HD
+http://pfsv.io:80/015029529493/blendediptv.me/185
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/9eJ",Discovery Theater SD
+http://pfsv.io:80/015029529493/blendediptv.me/200
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/1cS",Discovery Turbo FHD
+http://pfsv.io:80/015029529493/blendediptv.me/171
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/1cS",Discovery Turbo HD
+http://pfsv.io:80/015029529493/blendediptv.me/186
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/1cS",Discovery Turbo SD
+http://pfsv.io:80/015029529493/blendediptv.me/201
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/4Yx",Discovery World FHD
+http://pfsv.io:80/015029529493/blendediptv.me/172
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/4Yx",Discovery World HD
+http://pfsv.io:80/015029529493/blendediptv.me/187
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/4Yx",Discovery World SD
+http://pfsv.io:80/015029529493/blendediptv.me/202
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="LINK_LOGO",Disney Channel FHD
+http://pfsv.io:80/015029529493/blendediptv.me/135
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/6MT",Disney Channel HD
+http://pfsv.io:80/015029529493/blendediptv.me/141
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/6MT",Disney Channel SD
+http://pfsv.io:80/015029529493/blendediptv.me/153
+#EXTINF:-1 group-title="Canais | Infantis",Disney FHD [H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30270
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/pw6",Disney Jr FHD
+http://pfsv.io:80/015029529493/blendediptv.me/134
+#EXTINF:-1 group-title="Canais | Infantis",Disney JR FHD [H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30271
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/pw6",Disney Jr HD
+http://pfsv.io:80/015029529493/blendediptv.me/146
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/pw6",Disney Jr SD
+http://pfsv.io:80/015029529493/blendediptv.me/154
+#EXTINF:-1 group-title="Canais | Infantis",Disney XD FHD [H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30273
 #EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/n2T",Disney XD SD
-http://psrv.io:80/883698111244/blendediptv.me/22321
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/L5h",Dog TV FHD
-http://psrv.io:80/883698111244/blendediptv.me/28001
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/6nk",Dog TV HD
-http://psrv.io:80/883698111244/blendediptv.me/28000
-#EXTINF:-1 group-title="Canais | Internacionais",DW ALEMANHA HD
-http://psrv.io:80/883698111244/blendediptv.me/26429
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/HbJ",E! FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22145
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/PCy",E! HD
-http://psrv.io:80/883698111244/blendediptv.me/18681
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/Z05",E! SD
-http://psrv.io:80/883698111244/blendediptv.me/18682
-#EXTINF:-1 group-title="Canais | Esportes",EI Plus 1 HD
-http://psrv.io:80/883698111244/blendediptv.me/22978
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/Lkj",ESPN 2 FHD
-http://psrv.io:80/883698111244/blendediptv.me/18837
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/oUp",ESPN 2 FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/25309
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/krr",ESPN 2 HD
-http://psrv.io:80/883698111244/blendediptv.me/18678
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/J6U",ESPN 2 SD
-http://psrv.io:80/883698111244/blendediptv.me/18679
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/a01",ESPN Brasil FHD
-http://psrv.io:80/883698111244/blendediptv.me/18781
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/2zo",ESPN Brasil FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/25238
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/hvU",ESPN Brasil HD
-http://psrv.io:80/883698111244/blendediptv.me/18676
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/S1E",ESPN Brasil SD
-http://psrv.io:80/883698111244/blendediptv.me/18677
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/TAv",ESPN Extra FHD
-http://psrv.io:80/883698111244/blendediptv.me/18836
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/2Db",ESPN Extra FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/25308
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/1xn",ESPN Extra HD
-http://psrv.io:80/883698111244/blendediptv.me/18674
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/dzo",ESPN Extra SD
-http://psrv.io:80/883698111244/blendediptv.me/18675
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/d9B",ESPN FHD
-http://psrv.io:80/883698111244/blendediptv.me/18780
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/GbD",ESPN FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/25237
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/gWv",ESPN HD
-http://psrv.io:80/883698111244/blendediptv.me/18673
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/yGS",ESPN SD
-http://psrv.io:80/883698111244/blendediptv.me/18680
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://z4.vc/IIo",ESPN [4K]
-http://psrv.io:80/883698111244/blendediptv.me/27130
-#EXTINF:-1 group-title="Canais | Internacionais",Euro Channel FHD
-http://psrv.io:80/883698111244/blendediptv.me/28400
-#EXTINF:-1 group-title="Canais | Variedades",FASHION TV FHD
-http://psrv.io:80/883698111244/blendediptv.me/25236
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/T5S",Film & Arts SD
-http://psrv.io:80/883698111244/blendediptv.me/18497
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/7MZ",Fish TV FHD
-http://psrv.io:80/883698111244/blendediptv.me/18835
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/ILy",Fish TV FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22199
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/VxE",Fish TV HD
-http://psrv.io:80/883698111244/blendediptv.me/18671
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/Rxi",Fish TV SD
-http://psrv.io:80/883698111244/blendediptv.me/18672
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/Iv6",Food Network FHD
-http://psrv.io:80/883698111244/blendediptv.me/18834
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/rgy",Food Network FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22198
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/fYt",Food Network HD
-http://psrv.io:80/883698111244/blendediptv.me/18669
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/2cT",Food Network SD
-http://psrv.io:80/883698111244/blendediptv.me/18670
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/Gcu",Fox FHD
-http://psrv.io:80/883698111244/blendediptv.me/18779
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/yeh",Fox FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22197
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/DUZ",Fox HD
-http://psrv.io:80/883698111244/blendediptv.me/18667
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/EsS",Fox Life FHD
-http://psrv.io:80/883698111244/blendediptv.me/18833
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/9pz",Fox Life HD
-http://psrv.io:80/883698111244/blendediptv.me/18665
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/E0q",Fox Life SD
-http://psrv.io:80/883698111244/blendediptv.me/18666
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/efE",Fox Premium 1 FHD
-http://psrv.io:80/883698111244/blendediptv.me/18832
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/C2g",Fox Premium 1 FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22144
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/AQ5",Fox Premium 1 HD
-http://psrv.io:80/883698111244/blendediptv.me/18663
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/TCc",Fox Premium 1 SD
-http://psrv.io:80/883698111244/blendediptv.me/18664
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/qoY",Fox Premium 2 FHD
-http://psrv.io:80/883698111244/blendediptv.me/18831
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/O5F",Fox Premium 2 FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22143
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/g8Q",Fox Premium 2 HD
-http://psrv.io:80/883698111244/blendediptv.me/18661
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/cw8",Fox Premium 2 SD
-http://psrv.io:80/883698111244/blendediptv.me/18662
+http://pfsv.io:80/015029529493/blendediptv.me/155
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://p6.vc/f0G",Dog TV FHD
+http://pfsv.io:80/015029529493/blendediptv.me/32426
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://p6.vc/f0G",Dog TV HD
+http://pfsv.io:80/015029529493/blendediptv.me/32425
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/HbJ",E! FHD
+http://pfsv.io:80/015029529493/blendediptv.me/99
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://p6.vc/f0r",E! FHD [H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30186
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/HbJ",E! HD
+http://pfsv.io:80/015029529493/blendediptv.me/108
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/HbJ",E! SD
+http://pfsv.io:80/015029529493/blendediptv.me/117
+#EXTINF:-1 group-title="Canais | Jogos & Eventos" tvg-logo="LINK_LOGO",Ei Plus 01
+http://pfsv.io:80/015029529493/blendediptv.me/495
+#EXTINF:-1 group-title="Canais | Jogos & Eventos" tvg-logo="LINK_LOGO",Ei Plus 02
+http://pfsv.io:80/015029529493/blendediptv.me/496
+#EXTINF:-1 group-title="Canais | Jogos & Eventos" tvg-logo="LINK_LOGO",Ei Plus 03
+http://pfsv.io:80/015029529493/blendediptv.me/497
+#EXTINF:-1 group-title="Canais | Jogos & Eventos" tvg-logo="LINK_LOGO",Ei Plus 04
+http://pfsv.io:80/015029529493/blendediptv.me/498
+#EXTINF:-1 group-title="Canais | Jogos & Eventos" tvg-logo="LINK_LOGO",Ei Plus 05
+http://pfsv.io:80/015029529493/blendediptv.me/499
+#EXTINF:-1 group-title="Canais | Jogos & Eventos" tvg-logo="LINK_LOGO",Ei Plus 06
+http://pfsv.io:80/015029529493/blendediptv.me/500
+#EXTINF:-1 group-title="Canais | Jogos & Eventos" tvg-logo="LINK_LOGO",EI Plus HD
+http://pfsv.io:80/015029529493/blendediptv.me/488
+#EXTINF:-1 group-title="Canais | Jogos & Eventos" tvg-logo="LINK_LOGO",EI Plus SD
+http://pfsv.io:80/015029529493/blendediptv.me/489
+#EXTINF:-1 group-title="Canais | Jogos & Eventos",EiMax Jogos01
+http://pfsv.io:80/015029529493/blendediptv.me/35081
+#EXTINF:-1 group-title="Canais | Jogos & Eventos",EiMax Jogos02
+http://pfsv.io:80/015029529493/blendediptv.me/35082
+#EXTINF:-1 group-title="Canais | Jogos & Eventos",EiMax Jogos03
+http://pfsv.io:80/015029529493/blendediptv.me/35083
+#EXTINF:-1 group-title="Canais | Jogos & Eventos",EiMax Jogos04
+http://pfsv.io:80/015029529493/blendediptv.me/35084
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/oUp",ESPN 2 FHD
+http://pfsv.io:80/015029529493/blendediptv.me/254
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="LINK_LOGO",ESPN 2 FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30277
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/oUp",ESPN 2 HD
+http://pfsv.io:80/015029529493/blendediptv.me/258
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/oUp",ESPN 2 SD
+http://pfsv.io:80/015029529493/blendediptv.me/268
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/2zo",ESPN Brasil FHD
+http://pfsv.io:80/015029529493/blendediptv.me/250
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/2zo",ESPN Brasil FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30280
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/2zo",ESPN Brasil HD
+http://pfsv.io:80/015029529493/blendediptv.me/259
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/2zo",ESPN Brasil SD
+http://pfsv.io:80/015029529493/blendediptv.me/269
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/2Db",ESPN Extra FHD
+http://pfsv.io:80/015029529493/blendediptv.me/248
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="LINK_LOGO",ESPN Extra FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30278
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/2Db",ESPN Extra HD
+http://pfsv.io:80/015029529493/blendediptv.me/260
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/2Db",ESPN Extra SD
+http://pfsv.io:80/015029529493/blendediptv.me/270
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/GbD",ESPN FHD
+http://pfsv.io:80/015029529493/blendediptv.me/251
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/GbD",ESPN FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30281
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/GbD",ESPN HD
+http://pfsv.io:80/015029529493/blendediptv.me/261
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/GbD",ESPN SD
+http://pfsv.io:80/015029529493/blendediptv.me/267
+#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://p6.vc/f0l",ESPN [4K]
+http://pfsv.io:80/015029529493/blendediptv.me/595
+#EXTINF:-1 group-title="Art & Music",FashionTV FHD
+http://pfsv.io:80/015029529493/blendediptv.me/38526
+#EXTINF:-1 group-title="Art & Music",FashionTV FHD [H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30184
+#EXTINF:-1 group-title="Art & Music",FashionTV HD
+http://pfsv.io:80/015029529493/blendediptv.me/38525
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/T5S",Film&Arts SD
+http://pfsv.io:80/015029529493/blendediptv.me/348
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/ILy",Fish Tv FHD
+http://pfsv.io:80/015029529493/blendediptv.me/100
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://p6.vc/fZ1",Fish Tv FHD [H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30185
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/ILy",Fish Tv HD
+http://pfsv.io:80/015029529493/blendediptv.me/109
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://p6.vc/fZ1",Fish Tv SD
+http://pfsv.io:80/015029529493/blendediptv.me/118
+#EXTINF:-1 group-title="Canais | Jogos & Eventos",FLA TV
+http://pfsv.io:80/015029529493/blendediptv.me/33404
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://p6.vc/fZY",Food Network FHD
+http://pfsv.io:80/015029529493/blendediptv.me/101
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://p6.vc/fZY",Food Network FHD [H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30193
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://p6.vc/fZY",Food Network HD
+http://pfsv.io:80/015029529493/blendediptv.me/110
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://p6.vc/fZY",Food Network SD
+http://pfsv.io:80/015029529493/blendediptv.me/119
+#EXTINF:-1 group-title="Canais | Jogos & Eventos",FOX APP
+http://pfsv.io:80/015029529493/blendediptv.me/33375
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/OcS",Fox FHD
+http://pfsv.io:80/015029529493/blendediptv.me/292
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="LINK_LOGO",Fox FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30207
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/OcS",Fox HD
+http://pfsv.io:80/015029529493/blendediptv.me/304
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="LINK_LOGO",FOX HD [LEG]
+http://pfsv.io:80/015029529493/blendediptv.me/211
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/EsS",Fox Life FHD
+http://pfsv.io:80/015029529493/blendediptv.me/276
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="LINK_LOGO",Fox Life FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30208
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/EsS",Fox Life HD
+http://pfsv.io:80/015029529493/blendediptv.me/305
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/EsS",Fox Life SD
+http://pfsv.io:80/015029529493/blendediptv.me/330
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/C2g",Fox Premium 1 FHD
+http://pfsv.io:80/015029529493/blendediptv.me/277
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="LINK_LOGO",Fox Premium 1 FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30209
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/C2g",Fox Premium 1 HD
+http://pfsv.io:80/015029529493/blendediptv.me/306
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/C2g",Fox Premium 1 SD
+http://pfsv.io:80/015029529493/blendediptv.me/331
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/O5F",Fox Premium 2 FHD
+http://pfsv.io:80/015029529493/blendediptv.me/278
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="LINK_LOGO",Fox Premium 2 FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30210
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/O5F",Fox Premium 2 HD
+http://pfsv.io:80/015029529493/blendediptv.me/307
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/O5F",Fox Premium 2 SD
+http://pfsv.io:80/015029529493/blendediptv.me/332
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/OcS",Fox SD
-http://psrv.io:80/883698111244/blendediptv.me/18668
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/dEu",Fox Sports 2 FHD
-http://psrv.io:80/883698111244/blendediptv.me/18778
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/Qen",Fox Sports 2 FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22196
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/pne",Fox Sports 2 HD
-http://psrv.io:80/883698111244/blendediptv.me/18657
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/Rei",Fox Sports 2 SD
-http://psrv.io:80/883698111244/blendediptv.me/18658
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://z4.vc/Pgs",FOX SPORTS 2 [4K]
-http://psrv.io:80/883698111244/blendediptv.me/26406
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/H6m",Fox Sports FHD
-http://psrv.io:80/883698111244/blendediptv.me/18777
-#EXTINF:-1 group-title="Canais | Esportes",Fox Sports FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/28074
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/tG9",Fox Sports FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22195
+http://pfsv.io:80/015029529493/blendediptv.me/329
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="LINK_LOGO",FOX SD [LEG]
+http://pfsv.io:80/015029529493/blendediptv.me/212
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/Qen",Fox Sport 2 FHD
+http://pfsv.io:80/015029529493/blendediptv.me/252
+#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://p6.vc/f0j",Fox Sport 2 [4K]
+http://pfsv.io:80/015029529493/blendediptv.me/593
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="LINK_LOGO",Fox Sports 2 FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30282
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/Qen",Fox Sports 2 HD
+http://pfsv.io:80/015029529493/blendediptv.me/263
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/Qen",Fox Sports 2 SD
+http://pfsv.io:80/015029529493/blendediptv.me/272
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/nWk",Fox Sports FHD
+http://pfsv.io:80/015029529493/blendediptv.me/255
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="LINK_LOGO",Fox Sports FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30283
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/nWk",Fox Sports HD
-http://psrv.io:80/883698111244/blendediptv.me/18659
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/LEj",Fox Sports SD
-http://psrv.io:80/883698111244/blendediptv.me/18660
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://z4.vc/iWc",FOX SPORTS [4K]
-http://psrv.io:80/883698111244/blendediptv.me/26187
-#EXTINF:-1 group-title="Canais | Abertos",Futura FHD
-http://psrv.io:80/883698111244/blendediptv.me/28198
+http://pfsv.io:80/015029529493/blendediptv.me/262
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/nWk",Fox Sports SD
+http://pfsv.io:80/015029529493/blendediptv.me/271
+#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://p6.vc/f0c",Fox Sports [4K]
+http://pfsv.io:80/015029529493/blendediptv.me/586
+#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://z4.vc/yeh",FOX [4K]
+http://pfsv.io:80/015029529493/blendediptv.me/5346
+#EXTINF:-1 group-title="Canais | Abertos",FUTURA  FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30182
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/XaX",Futura FHD
+http://pfsv.io:80/015029529493/blendediptv.me/43
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/XaX",Futura HD
+http://pfsv.io:80/015029529493/blendediptv.me/51
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/XaX",Futura SD
-http://psrv.io:80/883698111244/blendediptv.me/18656
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/A4M",FX FHD
-http://psrv.io:80/883698111244/blendediptv.me/18829
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/TBI",FX FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22194
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/OsR",FX HD
-http://psrv.io:80/883698111244/blendediptv.me/18653
+http://pfsv.io:80/015029529493/blendediptv.me/66
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/GEc",FX FHD
+http://pfsv.io:80/015029529493/blendediptv.me/279
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="LINK_LOGO",FX FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30211
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/GEc",FX HD
+http://pfsv.io:80/015029529493/blendediptv.me/308
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="LINK_LOGO",FX HD [LEG]
+http://pfsv.io:80/015029529493/blendediptv.me/231
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/GEc",FX SD
-http://psrv.io:80/883698111244/blendediptv.me/22233
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/aZb",Globo Brasilia FHD[H265]
-http://psrv.io:80/883698111244/blendediptv.me/28390
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/Vli",Globo Brasilia HD
-http://psrv.io:80/883698111244/blendediptv.me/18434
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/aZb",Globo Brasilia SD
-http://psrv.io:80/883698111244/blendediptv.me/18435
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/5XU",Globo EPTV Araraquara SD
-http://psrv.io:80/883698111244/blendediptv.me/18433
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/n8G",Globo EPTV Campinas SD
-http://psrv.io:80/883698111244/blendediptv.me/18431
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/pqb",Globo EPTV Ribeirao Preto HD
-http://psrv.io:80/883698111244/blendediptv.me/18430
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/5Uj",Globo EPTV Ribeirao Preto SD
-http://psrv.io:80/883698111244/blendediptv.me/18429
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/nrI",Globo EPTV Sao Carlos SD
-http://psrv.io:80/883698111244/blendediptv.me/18428
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/aZb",Globo Mato Grosso FHD
-http://psrv.io:80/883698111244/blendediptv.me/28394
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/aZb",Globo Mato Grosso HD
-http://psrv.io:80/883698111244/blendediptv.me/28393
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/KxL",Globo Minas FHD
-http://psrv.io:80/883698111244/blendediptv.me/18377
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/4YI",Globo Minas HD
-http://psrv.io:80/883698111244/blendediptv.me/18425
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/ep1",Globo Minas SD
-http://psrv.io:80/883698111244/blendediptv.me/18426
-#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://z4.vc/qOs",Globo News FHD
-http://psrv.io:80/883698111244/blendediptv.me/18776
-#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://z4.vc/5tp",Globo News FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22193
-#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://z4.vc/4gV",Globo News HD
-http://psrv.io:80/883698111244/blendediptv.me/18651
-#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://z4.vc/lKc",Globo News SD
-http://psrv.io:80/883698111244/blendediptv.me/18652
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/97A",Globo Nordeste FHD
-http://psrv.io:80/883698111244/blendediptv.me/18376
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/p5d",Globo Nordeste SD
-http://psrv.io:80/883698111244/blendediptv.me/18424
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/Vey",Globo NSC TV Florianopolis FHD
-http://psrv.io:80/883698111244/blendediptv.me/18375
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/5Kj",Globo NSC TV Florianopolis HD
-http://psrv.io:80/883698111244/blendediptv.me/18421
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/wJx",Globo RBS TV Porto Alegre HD
-http://psrv.io:80/883698111244/blendediptv.me/18419
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/CX5",Globo RBS TV Porto Alegre SD
-http://psrv.io:80/883698111244/blendediptv.me/18420
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/X3N",Globo Rede Amazonas Manaus SD
-http://psrv.io:80/883698111244/blendediptv.me/18418
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/k7r",Globo RJ FHD
-http://psrv.io:80/883698111244/blendediptv.me/18415
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/pzi",Globo RJ FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/25232
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/CpN",Globo RJ HD
-http://psrv.io:80/883698111244/blendediptv.me/18416
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/FYM",Globo RJ SD
-http://psrv.io:80/883698111244/blendediptv.me/18417
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/8Bl",Globo RPC Curitiba HD
-http://psrv.io:80/883698111244/blendediptv.me/18413
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/F32",Globo RPC Curitiba SD
-http://psrv.io:80/883698111244/blendediptv.me/18412
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/HQs",Globo RPC Curitiba SD
-http://psrv.io:80/883698111244/blendediptv.me/18414
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/rtl",Globo Sao Jose dos Campos SD
-http://psrv.io:80/883698111244/blendediptv.me/22448
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/pzi",Globo SP FHD
-http://psrv.io:80/883698111244/blendediptv.me/28068
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/Vlx",Globo SP HD
-http://psrv.io:80/883698111244/blendediptv.me/18410
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/tlB",Globo SP SD
-http://psrv.io:80/883698111244/blendediptv.me/18411
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://z4.vc/rxr",GLOBO SP [4K]
-http://psrv.io:80/883698111244/blendediptv.me/26181
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/o8M",Globo TV Anhanguera Goiania SD
-http://psrv.io:80/883698111244/blendediptv.me/18407
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/2HU",Globo TV Salvador Bahia HD
-http://psrv.io:80/883698111244/blendediptv.me/18405
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/ORA",Globo TV Bahia SD
-http://psrv.io:80/883698111244/blendediptv.me/18406
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/Ew0",Globo TV C. America Cuiaba SD
-http://psrv.io:80/883698111244/blendediptv.me/18404
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/V9M",Globo TV Cabo Frio HD
-http://psrv.io:80/883698111244/blendediptv.me/18332
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/3yp",Globo TV Diario Fortaleza FHD
-http://psrv.io:80/883698111244/blendediptv.me/18740
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/JPA",Globo TV Diario Fortaleza HD
-http://psrv.io:80/883698111244/blendediptv.me/18490
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/hex",Globo TV Gazeta Sul ES FHD
-http://psrv.io:80/883698111244/blendediptv.me/18361
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/y1y",Globo TV Liberal Belem SD
-http://psrv.io:80/883698111244/blendediptv.me/18403
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/iWH",Globo TV Mirante Sao Luis FHD
-http://psrv.io:80/883698111244/blendediptv.me/18371
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/XMT",Globo TV Mirante Sao Luis HD
-http://psrv.io:80/883698111244/blendediptv.me/18370
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/l2H",Globo TV Rio Sul HD
-http://psrv.io:80/883698111244/blendediptv.me/18330
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/jUt",Globo TV Santa Cruz HD
-http://psrv.io:80/883698111244/blendediptv.me/18327
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/PSf",Globo TV Sergipe HD
-http://psrv.io:80/883698111244/blendediptv.me/18380
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/zfQ",Globo TV TEM Bauru SD
-http://psrv.io:80/883698111244/blendediptv.me/18402
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/c9W",Globo TV TEM S. J. do Rio Preto HD
-http://psrv.io:80/883698111244/blendediptv.me/18400
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/tLN",Globo TV TEM S. J. do Rio Preto SD
-http://psrv.io:80/883698111244/blendediptv.me/18399
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/5rA",Globo TV TEM S. J. Rio Preto FHD
-http://psrv.io:80/883698111244/blendediptv.me/18365
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/F7c",Globo TV TEM Sorocaba SD
-http://psrv.io:80/883698111244/blendediptv.me/18401
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/B32",Globo TV Tribuna Santas SD
-http://psrv.io:80/883698111244/blendediptv.me/18398
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/crH",Globo TV Vanguarda S. J. dos Campos SD
-http://psrv.io:80/883698111244/blendediptv.me/18397
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo TV Verdes Mares Fortaleza HD
-http://psrv.io:80/883698111244/blendediptv.me/28395
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo TV Verdes Mares Fortaleza SD
-http://psrv.io:80/883698111244/blendediptv.me/18396
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/e4t",GloboSat FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22129
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/KG5",GloboSat SD
-http://psrv.io:80/883698111244/blendediptv.me/22311
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/dOF",Gloob FHD
-http://psrv.io:80/883698111244/blendediptv.me/18775
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/EuT",Gloob FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22142
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/uDI",Gloob HD
-http://psrv.io:80/883698111244/blendediptv.me/18649
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/K5g",Gloob SD
-http://psrv.io:80/883698111244/blendediptv.me/18650
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/KhW",Gloob SD
-http://psrv.io:80/883698111244/blendediptv.me/22310
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/ibf",GNT FHD
-http://psrv.io:80/883698111244/blendediptv.me/18827
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/Z8a",GNT FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22141
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/6ya",GNT HD
-http://psrv.io:80/883698111244/blendediptv.me/18645
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/Dat",GNT SD
-http://psrv.io:80/883698111244/blendediptv.me/18646
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/Yos",H2 FHD
-http://psrv.io:80/883698111244/blendediptv.me/18826
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/cwN",H2 FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22192
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/prI",H2 HD
-http://psrv.io:80/883698111244/blendediptv.me/18643
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/Izg",H2 SD
-http://psrv.io:80/883698111244/blendediptv.me/22309
-#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/jVz",HBO 2 FHD
-http://psrv.io:80/883698111244/blendediptv.me/18774
-#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/8E9",HBO 2 FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22189
-#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/0PM",HBO 2 HD
-http://psrv.io:80/883698111244/blendediptv.me/18640
-#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/zwf",HBO 2 SD
-http://psrv.io:80/883698111244/blendediptv.me/18641
-#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/VUR",HBO Family FHD
-http://psrv.io:80/883698111244/blendediptv.me/18825
-#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/kwk",HBO Family FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22140
-#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/JtC",HBO Family HD
-http://psrv.io:80/883698111244/blendediptv.me/18638
-#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/vKg",HBO Family SD
-http://psrv.io:80/883698111244/blendediptv.me/18639
-#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/xDI",HBO FHD
-http://psrv.io:80/883698111244/blendediptv.me/18773
-#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/Tjb",HBO FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22139
-#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/z1Y",HBO HD
-http://psrv.io:80/883698111244/blendediptv.me/18637
-#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/YOR",HBO Plus FHD
-http://psrv.io:80/883698111244/blendediptv.me/18824
-#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/EFq",HBO Plus FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22191
-#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/oZI",HBO Plus HD
-http://psrv.io:80/883698111244/blendediptv.me/18635
-#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/Gg9",HBO Plus SD
-http://psrv.io:80/883698111244/blendediptv.me/18636
-#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/ncl",HBO SD
-http://psrv.io:80/883698111244/blendediptv.me/18642
-#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/97M",HBO Signature FHD
-http://psrv.io:80/883698111244/blendediptv.me/18823
-#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/1lN",HBO Signature FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22190
-#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/ICL",HBO Signature HD
-http://psrv.io:80/883698111244/blendediptv.me/18633
-#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/CPt",HBO Signature SD
-http://psrv.io:80/883698111244/blendediptv.me/18634
-#EXTINF:-1 group-title="Canais | Documentários",HGTV FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22203
-#EXTINF:-1 group-title="Canais | Documentários",HGTV HD
-http://psrv.io:80/883698111244/blendediptv.me/18699
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/3Ee",HGTV SD
-http://psrv.io:80/883698111244/blendediptv.me/18700
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/YVo",History Channel FHD
-http://psrv.io:80/883698111244/blendediptv.me/18822
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/p68",History Channel FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22188
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/hEz",History Channel HD
-http://psrv.io:80/883698111244/blendediptv.me/18631
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/GaY",History Channel SD
-http://psrv.io:80/883698111244/blendediptv.me/18632
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/vS4",ID: Investigacao Discovery FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22187
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/dAy",ID: Investigacao Discovery SD
-http://psrv.io:80/883698111244/blendediptv.me/18630
-#EXTINF:-1 group-title="Canais | Religiosos",Ideal  TV FHD
-http://psrv.io:80/883698111244/blendediptv.me/28397
-#EXTINF:-1 group-title="Canais | Filmes e Séries",Life Time FHD
-http://psrv.io:80/883698111244/blendediptv.me/28401
-#EXTINF:-1 group-title="Canais | Filmes e Séries",Life Time SD
-http://psrv.io:80/883698111244/blendediptv.me/28402
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/jgf",Lifetime FHD
-http://psrv.io:80/883698111244/blendediptv.me/18820
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/ELX",Lifetime FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22186
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/a4s",Lifetime HD
-http://psrv.io:80/883698111244/blendediptv.me/18627
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/Eyw",Lifetime SD
-http://psrv.io:80/883698111244/blendediptv.me/18628
-#EXTINF:-1 group-title="Canais | Internacionais",LOVE NATURAL FHD
-http://psrv.io:80/883698111244/blendediptv.me/26697
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/DiW",Mais GloboSat FHD
-http://psrv.io:80/883698111244/blendediptv.me/18754
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/9d1",Mais GloboSat FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/25291
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/0yY",Mais GloboSat HD
-http://psrv.io:80/883698111244/blendediptv.me/18625
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/QSP",Mais GloboSat SD
-http://psrv.io:80/883698111244/blendediptv.me/18626
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/amW",Max FHD
-http://psrv.io:80/883698111244/blendediptv.me/18819
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/cmn",Max FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22185
+http://pfsv.io:80/015029529493/blendediptv.me/333
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="LINK_LOGO",FX SD [LEG]
+http://pfsv.io:80/015029529493/blendediptv.me/232
+#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://p6.vc/f0n",Gazeta [4K]
+http://pfsv.io:80/015029529493/blendediptv.me/600
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Anhanguera Goiania SD
+http://pfsv.io:80/015029529493/blendediptv.me/32427
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Asa Branca SD
+http://pfsv.io:80/015029529493/blendediptv.me/32428
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Brasilia FHD
+http://pfsv.io:80/015029529493/blendediptv.me/360
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Brasilia HD
+http://pfsv.io:80/015029529493/blendediptv.me/385
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Brasilia SD
+http://pfsv.io:80/015029529493/blendediptv.me/420
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="LINK_LOGO",Globo Campinas FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30199
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Centro América Cuiaba SD
+http://pfsv.io:80/015029529493/blendediptv.me/34011
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Diario Fortaleza HD
+http://pfsv.io:80/015029529493/blendediptv.me/418
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo EPTV Araraquara SD
+http://pfsv.io:80/015029529493/blendediptv.me/460
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo EPTV Campinas FHD
+http://pfsv.io:80/015029529493/blendediptv.me/361
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo EPTV Campinas HD
+http://pfsv.io:80/015029529493/blendediptv.me/386
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo EPTV Campinas SD
+http://pfsv.io:80/015029529493/blendediptv.me/421
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo EPTV Ribeirao Preto HD
+http://pfsv.io:80/015029529493/blendediptv.me/387
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo EPTV Ribeirao Preto SD
+http://pfsv.io:80/015029529493/blendediptv.me/32431
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo EPTV Riberao Preto SD
+http://pfsv.io:80/015029529493/blendediptv.me/422
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo EPTV Sao Carlos SD
+http://pfsv.io:80/015029529493/blendediptv.me/459
+#EXTINF:-1 group-title="Canais | Jogos & Eventos" tvg-logo="LINK_LOGO",Globo Esporte
+http://pfsv.io:80/015029529493/blendediptv.me/491
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Inter Grande Minas HD
+http://pfsv.io:80/015029529493/blendediptv.me/409
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Inter Tv Alto Litoral HD
+http://pfsv.io:80/015029529493/blendediptv.me/407
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Inter Tv Alto Litoral SD
+http://pfsv.io:80/015029529493/blendediptv.me/443
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo INTER TV Cabugi RN SD
+http://pfsv.io:80/015029529493/blendediptv.me/32429
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Inter TV Dos Vales FHD
+http://pfsv.io:80/015029529493/blendediptv.me/373
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Inter Tv Dos Vales HD
+http://pfsv.io:80/015029529493/blendediptv.me/408
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Inter Tv Dos Vales SD
+http://pfsv.io:80/015029529493/blendediptv.me/444
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Inter TV Grande Minas FHD
+http://pfsv.io:80/015029529493/blendediptv.me/374
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Inter Tv Grande Minas SD
+http://pfsv.io:80/015029529493/blendediptv.me/445
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Inter TV Natal SD
+http://pfsv.io:80/015029529493/blendediptv.me/457
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Inter TV Serra Mar FHD
+http://pfsv.io:80/015029529493/blendediptv.me/375
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Inter Tv Serra Mar HD
+http://pfsv.io:80/015029529493/blendediptv.me/410
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Inter Tv Serra Mar SD
+http://pfsv.io:80/015029529493/blendediptv.me/446
+#EXTINF:-1 group-title="Canais | Notícias",Globo Internacional
+http://pfsv.io:80/015029529493/blendediptv.me/519
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Minas FHD
+http://pfsv.io:80/015029529493/blendediptv.me/362
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="LINK_LOGO",Globo Minas FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30200
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Minas HD
+http://pfsv.io:80/015029529493/blendediptv.me/388
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Minas SD
+http://pfsv.io:80/015029529493/blendediptv.me/423
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://p6.vc/fZ4",Globo News FHD
+http://pfsv.io:80/015029529493/blendediptv.me/512
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://p6.vc/fZ4",Globo News FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30196
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://p6.vc/fZ4",Globo News HD
+http://pfsv.io:80/015029529493/blendediptv.me/516
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://p6.vc/fZ4",Globo News SD
+http://pfsv.io:80/015029529493/blendediptv.me/522
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Nordeste FHD
+http://pfsv.io:80/015029529493/blendediptv.me/363
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="LINK_LOGO",Globo Nordeste FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30201
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Nordeste HD
+http://pfsv.io:80/015029529493/blendediptv.me/389
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Nordeste SD
+http://pfsv.io:80/015029529493/blendediptv.me/424
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo NSC Joinville HD
+http://pfsv.io:80/015029529493/blendediptv.me/413
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo NSC TV Blumenau FHD
+http://pfsv.io:80/015029529493/blendediptv.me/376
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo NSC Tv Blumenau HD
+http://pfsv.io:80/015029529493/blendediptv.me/411
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo NSC Tv Blumenau SD
+http://pfsv.io:80/015029529493/blendediptv.me/447
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo NSC Tv Florianopolis FHD
+http://pfsv.io:80/015029529493/blendediptv.me/364
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo NSC Tv Florianopolis HD
+http://pfsv.io:80/015029529493/blendediptv.me/390
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo NSC Tv Florianopolis SD
+http://pfsv.io:80/015029529493/blendediptv.me/425
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo NSC Tv Joinville FHD
+http://pfsv.io:80/015029529493/blendediptv.me/378
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo NSC Tv Joinville SD
+http://pfsv.io:80/015029529493/blendediptv.me/449
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="LINK_LOGO",Globo Porto Alegre FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30202
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo RBS Porto Alegre FHD
+http://pfsv.io:80/015029529493/blendediptv.me/365
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo RBS Porto Alegre HD
+http://pfsv.io:80/015029529493/blendediptv.me/34012
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo RBS Porto Alegre SD
+http://pfsv.io:80/015029529493/blendediptv.me/34013
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo RBS Tv Caxias do Sul HD
+http://pfsv.io:80/015029529493/blendediptv.me/412
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo RBS Tv Caxias do Sul FHD
+http://pfsv.io:80/015029529493/blendediptv.me/377
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo RBS Tv Caxias do Sul SD
+http://pfsv.io:80/015029529493/blendediptv.me/448
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo RBS Tv Pelotas FHD
+http://pfsv.io:80/015029529493/blendediptv.me/379
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo RBS Tv Pelotas HD
+http://pfsv.io:80/015029529493/blendediptv.me/414
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo RBS Tv Pelotas SD
+http://pfsv.io:80/015029529493/blendediptv.me/450
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo RBS Tv Porto Alegre HD
+http://pfsv.io:80/015029529493/blendediptv.me/391
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo RBS Tv Porto Alegre SD
+http://pfsv.io:80/015029529493/blendediptv.me/426
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Rede AM. Manaus SD
+http://pfsv.io:80/015029529493/blendediptv.me/462
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Rede Amazonica SD
+http://pfsv.io:80/015029529493/blendediptv.me/32430
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="LINK_LOGO",Globo Ribeirao Preto FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30203
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo RJ FHD
+http://pfsv.io:80/015029529493/blendediptv.me/352
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="LINK_LOGO",Globo RJ FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30204
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo RJ HD
+http://pfsv.io:80/015029529493/blendediptv.me/392
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo RJ SD
+http://pfsv.io:80/015029529493/blendediptv.me/427
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo RPC Curitiba FHD
+http://pfsv.io:80/015029529493/blendediptv.me/353
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo RPC Curitiba HD
+http://pfsv.io:80/015029529493/blendediptv.me/393
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo RPC Curitiba SD
+http://pfsv.io:80/015029529493/blendediptv.me/428
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo RPC Foz Do Iguacu FHD
+http://pfsv.io:80/015029529493/blendediptv.me/356
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo RPC Foz Do Iguacu HD
+http://pfsv.io:80/015029529493/blendediptv.me/399
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo RPC Foz do Iguacu SD
+http://pfsv.io:80/015029529493/blendediptv.me/436
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo RPC Maringa FHD
+http://pfsv.io:80/015029529493/blendediptv.me/351
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo RPC Maringa HD
+http://pfsv.io:80/015029529493/blendediptv.me/384
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo RPC Maringa SD
+http://pfsv.io:80/015029529493/blendediptv.me/419
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo RPC Paranavai SD
+http://pfsv.io:80/015029529493/blendediptv.me/32432
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo S. J. Dos Campos SD
+http://pfsv.io:80/015029529493/blendediptv.me/434
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo SP FHD
+http://pfsv.io:80/015029529493/blendediptv.me/354
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="LINK_LOGO",Globo SP FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30205
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo SP HD
+http://pfsv.io:80/015029529493/blendediptv.me/394
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo SP SD
+http://pfsv.io:80/015029529493/blendediptv.me/429
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo TEM S. J. do Rio Preto SD
+http://pfsv.io:80/015029529493/blendediptv.me/432
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Tv Anhanguera FHD
+http://pfsv.io:80/015029529493/blendediptv.me/366
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo TV Anhanguera HD
+http://pfsv.io:80/015029529493/blendediptv.me/395
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Tv Anhanguera SD
+http://pfsv.io:80/015029529493/blendediptv.me/430
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Tv Bahia FHD
+http://pfsv.io:80/015029529493/blendediptv.me/367
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Tv Bahia HD
+http://pfsv.io:80/015029529493/blendediptv.me/396
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Tv Bahia SD
+http://pfsv.io:80/015029529493/blendediptv.me/431
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Tv Cabo Branco FHD
+http://pfsv.io:80/015029529493/blendediptv.me/380
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Tv Cabo Branco HD
+http://pfsv.io:80/015029529493/blendediptv.me/415
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Tv Cabo Branco SD
+http://pfsv.io:80/015029529493/blendediptv.me/451
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo TV Caruaru (Asa Branca) HD
+http://pfsv.io:80/015029529493/blendediptv.me/34010
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Tv Clube Teresina FHD
+http://pfsv.io:80/015029529493/blendediptv.me/357
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Tv Clube Teresina HD
+http://pfsv.io:80/015029529493/blendediptv.me/400
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Tv Clube Teresina SD
+http://pfsv.io:80/015029529493/blendediptv.me/437
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Tv Diario Fortaleza FHD
+http://pfsv.io:80/015029529493/blendediptv.me/383
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Tv Diario Fortaleza SD
+http://pfsv.io:80/015029529493/blendediptv.me/463
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Tv Gazeta Alagoas FHD
+http://pfsv.io:80/015029529493/blendediptv.me/371
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Tv Gazeta Alagoas HD
+http://pfsv.io:80/015029529493/blendediptv.me/405
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Tv Gazeta Alagoas SD
+http://pfsv.io:80/015029529493/blendediptv.me/442
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo tv Gazeta Sul ES FHD
+http://pfsv.io:80/015029529493/blendediptv.me/372
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Tv Gazeta Sul ES HD
+http://pfsv.io:80/015029529493/blendediptv.me/406
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Tv Gazeta Vitoria FHD
+http://pfsv.io:80/015029529493/blendediptv.me/358
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Tv Gazeta Vitoria HD
+http://pfsv.io:80/015029529493/blendediptv.me/401
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Tv Gazeta Vitoria SD
+http://pfsv.io:80/015029529493/blendediptv.me/438
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo TV Integração SD
+http://pfsv.io:80/015029529493/blendediptv.me/32433
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo TV Itapetininga SD
+http://pfsv.io:80/015029529493/blendediptv.me/32434
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Tv Liberal Belem Sd
+http://pfsv.io:80/015029529493/blendediptv.me/455
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Tv Mirante Sao Luis FHD
+http://pfsv.io:80/015029529493/blendediptv.me/368
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Tv Mirante Sao Luis HD
+http://pfsv.io:80/015029529493/blendediptv.me/403
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Tv Mirante Sao Luis SD
+http://pfsv.io:80/015029529493/blendediptv.me/440
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Tv Morena Campo Grande HD
+http://pfsv.io:80/015029529493/blendediptv.me/404
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Tv Morena Campo Grande SD
+http://pfsv.io:80/015029529493/blendediptv.me/441
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Tv Morena Grande FHD
+http://pfsv.io:80/015029529493/blendediptv.me/369
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Tv Rio Sul FHD
+http://pfsv.io:80/015029529493/blendediptv.me/381
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Tv Rio Sul HD
+http://pfsv.io:80/015029529493/blendediptv.me/416
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Tv Rio Sul SD
+http://pfsv.io:80/015029529493/blendediptv.me/452
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Tv Santa Cruz FHD
+http://pfsv.io:80/015029529493/blendediptv.me/382
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Tv Santa Cruz HD
+http://pfsv.io:80/015029529493/blendediptv.me/417
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Tv Santa Cruz SD
+http://pfsv.io:80/015029529493/blendediptv.me/453
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Tv Sergipe FHD
+http://pfsv.io:80/015029529493/blendediptv.me/359
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Tv Sergipe HD
+http://pfsv.io:80/015029529493/blendediptv.me/402
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Tv Sergipe SD
+http://pfsv.io:80/015029529493/blendediptv.me/439
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Tv Tem Bauru SD
+http://pfsv.io:80/015029529493/blendediptv.me/454
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo TV Tem Rio Preto SD
+http://pfsv.io:80/015029529493/blendediptv.me/32435
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Tv TEM S. J. Do Rio Preto HD
+http://pfsv.io:80/015029529493/blendediptv.me/397
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo TV TEM S. J. Rio Preto FHD
+http://pfsv.io:80/015029529493/blendediptv.me/370
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Tv TEM Sorocaba SD
+http://pfsv.io:80/015029529493/blendediptv.me/456
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Tv Tribuna Santos SD
+http://pfsv.io:80/015029529493/blendediptv.me/433
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo TV Vanguarda Sao Jose Dos Campos SD
+http://pfsv.io:80/015029529493/blendediptv.me/32436
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo Tv Verdes Mares Fortaleza SD
+http://pfsv.io:80/015029529493/blendediptv.me/461
+#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://p6.vc/fZ8",Globo SP[4K]
+http://pfsv.io:80/015029529493/blendediptv.me/582
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/EuT",Gloob FHD
+http://pfsv.io:80/015029529493/blendediptv.me/136
+#EXTINF:-1 group-title="Canais | Infantis",GLOOB H265
+http://pfsv.io:80/015029529493/blendediptv.me/30266
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/EuT",Gloob HD
+http://pfsv.io:80/015029529493/blendediptv.me/142
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/EuT",Gloob SD
+http://pfsv.io:80/015029529493/blendediptv.me/156
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="LINK_LOGO",Gloobinho FHD
+http://pfsv.io:80/015029529493/blendediptv.me/128
+#EXTINF:-1 group-title="Canais | Infantis",Gloobinho FHD [H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30274
+#EXTINF:-1 group-title="Canais | Infantis",Gloobinho HD
+http://pfsv.io:80/015029529493/blendediptv.me/1068
+#EXTINF:-1 group-title="Canais | Infantis",Gloobinho SD
+http://pfsv.io:80/015029529493/blendediptv.me/1069
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/Z8a",GNT FHD
+http://pfsv.io:80/015029529493/blendediptv.me/102
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://p6.vc/f0s",GNT FHD [H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30187
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/Z8a",GNT HD
+http://pfsv.io:80/015029529493/blendediptv.me/111
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/Z8a",GNT SD
+http://pfsv.io:80/015029529493/blendediptv.me/120
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/8E9",HBO 2 FHD
+http://pfsv.io:80/015029529493/blendediptv.me/470
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/8E9",HBO 2 HD
+http://pfsv.io:80/015029529493/blendediptv.me/472
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://p6.vc/f0w",HBO 2 FHD [H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30234
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/8E9",HBO 2 SD
+http://pfsv.io:80/015029529493/blendediptv.me/481
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/kwk",HBO Family FHD
+http://pfsv.io:80/015029529493/blendediptv.me/464
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://p6.vc/f0x",HBO Family FHD [H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30235
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/kwk",HBO Family HD
+http://pfsv.io:80/015029529493/blendediptv.me/473
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/kwk",HBO Family SD
+http://pfsv.io:80/015029529493/blendediptv.me/483
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/Tjb",HBO FHD
+http://pfsv.io:80/015029529493/blendediptv.me/471
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://p6.vc/f0y",HBO FHD [H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30236
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/Tjb",HBO HD
+http://pfsv.io:80/015029529493/blendediptv.me/474
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="LINK_LOGO",HBO HD [LEG]
+http://pfsv.io:80/015029529493/blendediptv.me/213
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/xDI",HBO Mundi FHD
+http://pfsv.io:80/015029529493/blendediptv.me/467
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://p6.vc/f0B",HBO Mundi FHD [H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30239
 #EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/xDI",HBO Mundi HD
-http://psrv.io:80/883698111244/blendediptv.me/18623
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/fwU",Max Prime HD
-http://psrv.io:80/883698111244/blendediptv.me/18621
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/cv2",Max Prime SD
-http://psrv.io:80/883698111244/blendediptv.me/18622
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/CmH",Max SD
-http://psrv.io:80/883698111244/blendediptv.me/18624
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/zPy",Megapix FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22137
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/KR2",Megapix HD
-http://psrv.io:80/883698111244/blendediptv.me/18617
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/g9W",Megapix SD
-http://psrv.io:80/883698111244/blendediptv.me/18618
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://z4.vc/asB",MEGAPIX [4K]
-http://psrv.io:80/883698111244/blendediptv.me/26407
-#EXTINF:-1 group-title="Canais | Internacionais",MIAMI TV HD
-http://psrv.io:80/883698111244/blendediptv.me/26430
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/1kJ",MTV FHD
-http://psrv.io:80/883698111244/blendediptv.me/18815
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/zg9",MTV FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22183
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/sTl",MTV HD
-http://psrv.io:80/883698111244/blendediptv.me/18615
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/PWM",MTV Live FHD
-http://psrv.io:80/883698111244/blendediptv.me/18814
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/u8U",MTV Live HD
-http://psrv.io:80/883698111244/blendediptv.me/18507
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/MWq",MTV SD
-http://psrv.io:80/883698111244/blendediptv.me/18616
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/7vt",Multishow FHD
-http://psrv.io:80/883698111244/blendediptv.me/18813
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/6Yx",Multishow FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22182
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/Oev",Multishow HD
-http://psrv.io:80/883698111244/blendediptv.me/18613
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/0j3",Multishow SD
-http://psrv.io:80/883698111244/blendediptv.me/18614
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://z4.vc/2VC",MULTISHOW [4K]
-http://psrv.io:80/883698111244/blendediptv.me/26191
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/odD",Music Box Brasil HD
-http://psrv.io:80/883698111244/blendediptv.me/18611
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/SEn",Music Box Brasil SD
-http://psrv.io:80/883698111244/blendediptv.me/18612
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/j0A",NatGeo Kids FHD
-http://psrv.io:80/883698111244/blendediptv.me/18810
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/yTi",NatGeo Kids FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22180
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/4kC",NatGeo Kids HD
-http://psrv.io:80/883698111244/blendediptv.me/18607
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/3yZ",NatGeo Kids SD
-http://psrv.io:80/883698111244/blendediptv.me/18608
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/t2t",NatGeo Wild FHD
-http://psrv.io:80/883698111244/blendediptv.me/18809
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/Nzf",NatGeo Wild FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22179
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/Vzb",NatGeo Wild HD
-http://psrv.io:80/883698111244/blendediptv.me/18606
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/qtJ",NatGeo Wild SD
-http://psrv.io:80/883698111244/blendediptv.me/18605
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://z4.vc/aSn",NATGEO [4K]
-http://psrv.io:80/883698111244/blendediptv.me/26695
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/QKB",National Geographic FHD
-http://psrv.io:80/883698111244/blendediptv.me/18811
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/uNC",National Geographic SD
-http://psrv.io:80/883698111244/blendediptv.me/18610
-#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="http://z4.vc/8Qu",NHK JAPAO SD
-http://psrv.io:80/883698111244/blendediptv.me/26436
-#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="http://z4.vc/UKk",NHK SD
-http://psrv.io:80/883698111244/blendediptv.me/22219
-#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="http://z4.vc/kon",NHK WORLD HD
-http://psrv.io:80/883698111244/blendediptv.me/26435
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/pI8",Nick Jr FHD
-http://psrv.io:80/883698111244/blendediptv.me/18808
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/HZk",Nick Jr FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22178
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/Xp5",Nick Jr HD
-http://psrv.io:80/883698111244/blendediptv.me/18602
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/kuz",Nick Jr SD
-http://psrv.io:80/883698111244/blendediptv.me/18603
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/9Ti",Nickelodeon FHD
-http://psrv.io:80/883698111244/blendediptv.me/18807
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/NFO",Nickelodeon FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22136
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/6RD",Nickelodeon HD
-http://psrv.io:80/883698111244/blendediptv.me/18600
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/Ad6",Nickelodeon SD
-http://psrv.io:80/883698111244/blendediptv.me/18601
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/DH2",OFF FHD
-http://psrv.io:80/883698111244/blendediptv.me/18806
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/F6G",OFF FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22135
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/L2Z",OFF HD
-http://psrv.io:80/883698111244/blendediptv.me/18598
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/dGv",OFF SD
-http://psrv.io:80/883698111244/blendediptv.me/18599
-#EXTINF:-1 group-title="Canais | Internacionais",Olympic Channel 1
-http://psrv.io:80/883698111244/blendediptv.me/28160
-#EXTINF:-1 group-title="Canais | Internacionais",Olympic Channel 2
-http://psrv.io:80/883698111244/blendediptv.me/28161
-#EXTINF:-1 group-title="Canais | Internacionais",Olympic Channel 3
-http://psrv.io:80/883698111244/blendediptv.me/28162
-#EXTINF:-1 group-title="Canais | Internacionais",Olympic Channel 4
-http://psrv.io:80/883698111244/blendediptv.me/28163
-#EXTINF:-1 group-title="Canais | Internacionais",Olympic Channel 5
-http://psrv.io:80/883698111244/blendediptv.me/28164
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/UeA",Paramount Channel FHD
-http://psrv.io:80/883698111244/blendediptv.me/18805
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/VL0",Paramount Channel FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22177
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/QY7",Paramount Channel HD
-http://psrv.io:80/883698111244/blendediptv.me/18596
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/G8C",Paramount Channel SD
-http://psrv.io:80/883698111244/blendediptv.me/18597
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/jN0",Play TV SD
-http://psrv.io:80/883698111244/blendediptv.me/22288
-#EXTINF:-1 group-title="Canais | Variedades",PolishopTV SD
-http://psrv.io:80/883698111244/blendediptv.me/28066
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://z4.vc/Bxs",PREMIERE CLUBES [4K]
-http://psrv.io:80/883698111244/blendediptv.me/26184
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/B3z",Premiere 2 FHD
-http://psrv.io:80/883698111244/blendediptv.me/18772
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/JZf",Premiere 2 FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22176
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/7TJ",Premiere 2 HD
-http://psrv.io:80/883698111244/blendediptv.me/18594
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/Dw5",Premiere 2 SD
-http://psrv.io:80/883698111244/blendediptv.me/18595
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/zhT",Premiere 3 FHD
-http://psrv.io:80/883698111244/blendediptv.me/18771
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/3MT",Premiere 3 FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22175
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/Eov",Premiere 3 HD
-http://psrv.io:80/883698111244/blendediptv.me/18592
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/pYW",Premiere 3 SD
-http://psrv.io:80/883698111244/blendediptv.me/18593
+http://pfsv.io:80/015029529493/blendediptv.me/477
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/xDI",HBO Mundi SD
+http://pfsv.io:80/015029529493/blendediptv.me/485
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/EFq",HBO Plus FHD
+http://pfsv.io:80/015029529493/blendediptv.me/465
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://p6.vc/f0z",HBO Plus FHD [H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30237
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/EFq",HBO Plus HD
+http://pfsv.io:80/015029529493/blendediptv.me/475
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="LINK_LOGO",HBO PLUS HD [LEG]
+http://pfsv.io:80/015029529493/blendediptv.me/215
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/EFq",HBO Plus SD
+http://pfsv.io:80/015029529493/blendediptv.me/482
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="LINK_LOGO",HBO PLUS SD [LEG]
+http://pfsv.io:80/015029529493/blendediptv.me/216
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/xDI",HBO POP FHD
+http://pfsv.io:80/015029529493/blendediptv.me/469
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://p6.vc/f0D",HBO Pop FHD [H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30241
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/xDI",HBO Pop HD
+http://pfsv.io:80/015029529493/blendediptv.me/479
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="LINK_LOGO",HBO POP HD [LEG]
+http://pfsv.io:80/015029529493/blendediptv.me/233
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/xDI",HBO Pop SD
+http://pfsv.io:80/015029529493/blendediptv.me/487
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="LINK_LOGO",HBO POP SD [LEG]
+http://pfsv.io:80/015029529493/blendediptv.me/234
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/Tjb",HBO SD
+http://pfsv.io:80/015029529493/blendediptv.me/480
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="LINK_LOGO",HBO SD [LEG]
+http://pfsv.io:80/015029529493/blendediptv.me/214
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/1lN",HBO Signature FHD
+http://pfsv.io:80/015029529493/blendediptv.me/466
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://p6.vc/f0A",HBO Signature FHD [H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30238
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/1lN",HBO Signature HD
+http://pfsv.io:80/015029529493/blendediptv.me/476
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/1lN",HBO Signature SD
+http://pfsv.io:80/015029529493/blendediptv.me/484
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/xDI",HBO Xtreme FHD
+http://pfsv.io:80/015029529493/blendediptv.me/468
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://p6.vc/f0C",HBO Xtreme FHD [H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30240
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/xDI",HBO Xtreme HD
+http://pfsv.io:80/015029529493/blendediptv.me/478
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/xDI",HBO Xtreme SD
+http://pfsv.io:80/015029529493/blendediptv.me/486
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="LINK_LOGO",HBO XTREME SD [LEG]
+http://pfsv.io:80/015029529493/blendediptv.me/217
+#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://z4.vc/xDI",HBO Xtreme [4K]
+http://pfsv.io:80/015029529493/blendediptv.me/5344
+#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://p6.vc/f0y",HBO [4K]
+http://pfsv.io:80/015029529493/blendediptv.me/599
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="LINK_LOGO",HGTV FHD
+http://pfsv.io:80/015029529493/blendediptv.me/167
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="LINK_LOGO",HGTV FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30253
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="LINK_LOGO",HGTV HD
+http://pfsv.io:80/015029529493/blendediptv.me/182
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="LINK_LOGO",HGTV SD
+http://pfsv.io:80/015029529493/blendediptv.me/197
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/cwN",History Channel 2 FHD
+http://pfsv.io:80/015029529493/blendediptv.me/173
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="LINK_LOGO",History Channel 2 FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30262
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/cwN",History Channel 2 HD
+http://pfsv.io:80/015029529493/blendediptv.me/188
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/cwN",History Channel 2 SD
+http://pfsv.io:80/015029529493/blendediptv.me/203
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/p68",History Channel FHD
+http://pfsv.io:80/015029529493/blendediptv.me/174
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="LINK_LOGO",History Channel FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30250
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/p68",History Channel HD
+http://pfsv.io:80/015029529493/blendediptv.me/189
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/p68",History Channel SD
+http://pfsv.io:80/015029529493/blendediptv.me/204
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="LINK_LOGO",Investigacao Discovery Channel FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30259
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/vS4",Investigacao Discovery FHD
+http://pfsv.io:80/015029529493/blendediptv.me/175
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/vS4",Investigacao Discovery HD
+http://pfsv.io:80/015029529493/blendediptv.me/190
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/vS4",Investigacao Discovery SD
+http://pfsv.io:80/015029529493/blendediptv.me/205
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/ELX",Life Time FHD
+http://pfsv.io:80/015029529493/blendediptv.me/280
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="LINK_LOGO",Life Time FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30217
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/ELX",Life Time HD
+http://pfsv.io:80/015029529493/blendediptv.me/309
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/ELX",life Time SD
+http://pfsv.io:80/015029529493/blendediptv.me/334
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://p6.vc/fZZ",Mais GloboSat FHD
+http://pfsv.io:80/015029529493/blendediptv.me/103
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://p6.vc/fZZ",Mais GloboSat FHD [H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30194
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://p6.vc/fZZ",Mais GloboSat HD
+http://pfsv.io:80/015029529493/blendediptv.me/112
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://p6.vc/fZZ",Mais GloboSat SD
+http://pfsv.io:80/015029529493/blendediptv.me/121
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="LINK_LOGO",MAX SD [LEG]
+http://pfsv.io:80/015029529493/blendediptv.me/218
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/zPy",MegaPix FHD
+http://pfsv.io:80/015029529493/blendediptv.me/281
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="LINK_LOGO",MegaPix FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30218
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/zPy",Megapix HD
+http://pfsv.io:80/015029529493/blendediptv.me/310
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="LINK_LOGO",Megapix HD[LEG]
+http://pfsv.io:80/015029529493/blendediptv.me/235
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/zPy",MegaPix SD
+http://pfsv.io:80/015029529493/blendediptv.me/335
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="LINK_LOGO",Megapix SD [LEG]
+http://pfsv.io:80/015029529493/blendediptv.me/236
+#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://p6.vc/f0i",Megapix [4K]
+http://pfsv.io:80/015029529493/blendediptv.me/592
+#EXTINF:-1 group-title="Art & Music",MTV  FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30175
+#EXTINF:-1 group-title="Art & Music" tvg-logo="http://z4.vc/zg9",MTV FHD
+http://pfsv.io:80/015029529493/blendediptv.me/1
+#EXTINF:-1 group-title="Art & Music" tvg-logo="http://z4.vc/zg9",MTV HD
+http://pfsv.io:80/015029529493/blendediptv.me/15
+#EXTINF:-1 group-title="Art & Music",MTV LIVE  FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30172
+#EXTINF:-1 group-title="Art & Music" tvg-logo="http://z4.vc/PWM",MTV Live FHD
+http://pfsv.io:80/015029529493/blendediptv.me/2
+#EXTINF:-1 group-title="Art & Music" tvg-logo="http://z4.vc/PWM",MTV Live HD
+http://pfsv.io:80/015029529493/blendediptv.me/13
+#EXTINF:-1 group-title="Art & Music" tvg-logo="http://z4.vc/PWM",MTV Live SD
+http://pfsv.io:80/015029529493/blendediptv.me/6
+#EXTINF:-1 group-title="Art & Music" tvg-logo="http://z4.vc/zg9",MTV SD
+http://pfsv.io:80/015029529493/blendediptv.me/9
+#EXTINF:-1 group-title="Art & Music",MULTISHOW  FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30173
+#EXTINF:-1 group-title="Art & Music" tvg-logo="http://z4.vc/6Yx",Multishow FHD
+http://pfsv.io:80/015029529493/blendediptv.me/3
+#EXTINF:-1 group-title="Art & Music" tvg-logo="http://z4.vc/6Yx",MultiShow HD
+http://pfsv.io:80/015029529493/blendediptv.me/16
+#EXTINF:-1 group-title="Art & Music" tvg-logo="http://z4.vc/6Yx",MultiShow SD
+http://pfsv.io:80/015029529493/blendediptv.me/10
+#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://p6.vc/f0g",MultiShow [4K]
+http://pfsv.io:80/015029529493/blendediptv.me/590
+#EXTINF:-1 group-title="Art & Music" tvg-logo="http://z4.vc/odD",Music BOX BRASIL FHD
+http://pfsv.io:80/015029529493/blendediptv.me/4
+#EXTINF:-1 group-title="Art & Music" tvg-logo="http://z4.vc/odD",Music Box BRASIL HD
+http://pfsv.io:80/015029529493/blendediptv.me/17
+#EXTINF:-1 group-title="Art & Music" tvg-logo="http://z4.vc/odD",Music Box BRASIL SD
+http://pfsv.io:80/015029529493/blendediptv.me/11
+#EXTINF:-1 group-title="Art & Music",MUSIC BOX BRAZIL  FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30176
+#EXTINF:-1 group-title="Canais | Infantis",NatGeo KIDS FHD [H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30272
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/yTi",NatGeo Kids FHD
+http://pfsv.io:80/015029529493/blendediptv.me/129
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/yTi",NatGeo Kids HD
+http://pfsv.io:80/015029529493/blendediptv.me/143
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/yTi",NatGeo Kids SD
+http://pfsv.io:80/015029529493/blendediptv.me/157
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="LINK_LOGO",National Geografic FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30251
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="LINK_LOGO",National Geografic Wild FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30252
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/F7u",National Geographic FHD
+http://pfsv.io:80/015029529493/blendediptv.me/176
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/F7u",National Geographic HD
+http://pfsv.io:80/015029529493/blendediptv.me/191
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/F7u",National Geographic SD
+http://pfsv.io:80/015029529493/blendediptv.me/206
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/Nzf",National Geographic Wild FHD
+http://pfsv.io:80/015029529493/blendediptv.me/177
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/Nzf",National Geographic Wild HD
+http://pfsv.io:80/015029529493/blendediptv.me/192
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/Nzf",National Geographic Wild SD
+http://pfsv.io:80/015029529493/blendediptv.me/207
+#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://p6.vc/f0k",National Geographic [4K]
+http://pfsv.io:80/015029529493/blendediptv.me/594
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="LINK_LOGO",NBR SD
+http://pfsv.io:80/015029529493/blendediptv.me/86
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/HZk",Nick JR FHD
+http://pfsv.io:80/015029529493/blendediptv.me/130
+#EXTINF:-1 group-title="Canais | Infantis",NICK JR H265
+http://pfsv.io:80/015029529493/blendediptv.me/30263
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/HZk",Nick JR HD
+http://pfsv.io:80/015029529493/blendediptv.me/144
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/HZk",Nick Jr SD
+http://pfsv.io:80/015029529493/blendediptv.me/158
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/NFO",Nickelodeon FHD
+http://pfsv.io:80/015029529493/blendediptv.me/131
+#EXTINF:-1 group-title="Canais | Infantis",NICKELODEON H265
+http://pfsv.io:80/015029529493/blendediptv.me/30264
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/NFO",Nickelodeon HD
+http://pfsv.io:80/015029529493/blendediptv.me/145
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/NFO",Nickelodeon SD
+http://pfsv.io:80/015029529493/blendediptv.me/159
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/DH2",OFF FHD
+http://pfsv.io:80/015029529493/blendediptv.me/253
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="LINK_LOGO",OFF FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30279
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/DH2",OFF HD
+http://pfsv.io:80/015029529493/blendediptv.me/264
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/DH2",OFF SD
+http://pfsv.io:80/015029529493/blendediptv.me/273
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/VL0",Paramount Channel FHD
+http://pfsv.io:80/015029529493/blendediptv.me/296
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/VL0",Paramount Channel HD
+http://pfsv.io:80/015029529493/blendediptv.me/311
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/VL0",Paramount Channel SD
+http://pfsv.io:80/015029529493/blendediptv.me/336
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="LINK_LOGO",Paramount FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30213
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="LINK_LOGO",PlayKids FHD
+http://pfsv.io:80/015029529493/blendediptv.me/137
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="LINK_LOGO",PlayKids HD
+http://pfsv.io:80/015029529493/blendediptv.me/147
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="LINK_LOGO",PlayKids SD
+http://pfsv.io:80/015029529493/blendediptv.me/162
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="LINK_LOGO",Polishop TV SD
+http://pfsv.io:80/015029529493/blendediptv.me/124
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://p6.vc/f0a",Premiere 2 FHD [H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30284
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://p6.vc/f0a",Premiere 3  FHD [H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30285
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://p6.vc/f0a",Premiere 4 FHD [H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30288
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://p6.vc/f0a",Premiere 5 FHD [H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30286
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://p6.vc/f0a",Premiere 6 FHD [H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30289
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://p6.vc/f0a",Premiere 7 FHD [H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30290
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/l5p",Premiere 2 HD
+http://pfsv.io:80/015029529493/blendediptv.me/531
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/l5p",Premiere 3 HD
+http://pfsv.io:80/015029529493/blendediptv.me/532
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/l5p",Premiere 4 HD
+http://pfsv.io:80/015029529493/blendediptv.me/533
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/l5p",Premiere 5 HD
+http://pfsv.io:80/015029529493/blendediptv.me/534
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/l5p",Premiere 6 HD
+http://pfsv.io:80/015029529493/blendediptv.me/535
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/l5p",Premiere 7 HD
+http://pfsv.io:80/015029529493/blendediptv.me/536
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/l5p",Premiere Club HD
+http://pfsv.io:80/015029529493/blendediptv.me/537
+#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://p6.vc/f0a",Premiere Club [4K]
+http://pfsv.io:80/015029529493/blendediptv.me/584
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/l5p",Premiere 2 FHD
+http://pfsv.io:80/015029529493/blendediptv.me/525
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/l5p",Premiere 2 SD
+http://pfsv.io:80/015029529493/blendediptv.me/538
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/l5p",Premiere 3 FHD
+http://pfsv.io:80/015029529493/blendediptv.me/526
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/l5p",Premiere 3 SD
+http://pfsv.io:80/015029529493/blendediptv.me/539
 #EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/l5p",Premiere 4 FHD
-http://psrv.io:80/883698111244/blendediptv.me/18770
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/GQj",Premiere 4 FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22174
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/3yh",Premiere 4 HD
-http://psrv.io:80/883698111244/blendediptv.me/18590
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/rHH",Premiere 4 SD
-http://psrv.io:80/883698111244/blendediptv.me/18591
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/9fk",Premiere 5 FHD
-http://psrv.io:80/883698111244/blendediptv.me/18769
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/gzL",Premiere 5 FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22173
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/mTm",Premiere 5 HD
-http://psrv.io:80/883698111244/blendediptv.me/18588
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/EKB",Premiere 5 SD
-http://psrv.io:80/883698111244/blendediptv.me/18589
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/MWj",Premiere 6 FHD
-http://psrv.io:80/883698111244/blendediptv.me/18768
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/zX5",Premiere 6 FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22172
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/6nM",Premiere 6 HD
-http://psrv.io:80/883698111244/blendediptv.me/18586
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/QT6",Premiere 6 SD
-http://psrv.io:80/883698111244/blendediptv.me/18587
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/hJk",Premiere 7 FHD
-http://psrv.io:80/883698111244/blendediptv.me/18767
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/zwc",Premiere 7 FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22171
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/xrN",Premiere 7 HD
-http://psrv.io:80/883698111244/blendediptv.me/18584
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/1i8",Premiere 7 SD
-http://psrv.io:80/883698111244/blendediptv.me/18585
-#EXTINF:-1 group-title="Canais | Premiere",Premiere 8 SD
-http://psrv.io:80/883698111244/blendediptv.me/28064
-#EXTINF:-1 group-title="Canais | Premiere",Premiere 9 SD
-http://psrv.io:80/883698111244/blendediptv.me/28063
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/Jtt",Premiere Clubes 4K
-http://psrv.io:80/883698111244/blendediptv.me/18438
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/A2U",Premiere Clubes FHD
-http://psrv.io:80/883698111244/blendediptv.me/18766
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/Ke5",Premiere Clubes FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22170
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/CQb",Premiere Clubes HD
-http://psrv.io:80/883698111244/blendediptv.me/18582
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/URo",Premiere Clubes SD
-http://psrv.io:80/883698111244/blendediptv.me/18583
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/XRY",Prime Box Brazil FHD
-http://psrv.io:80/883698111244/blendediptv.me/18804
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/3WB",Prime Box Brazil SD
-http://psrv.io:80/883698111244/blendediptv.me/18581
-#EXTINF:-1 group-title="Canais | Internacionais",PROFIT RO HD
-http://psrv.io:80/883698111244/blendediptv.me/28040
-#EXTINF:-1 group-title="Canais | Internacionais",Realitatea TV
-http://psrv.io:80/883698111244/blendediptv.me/28043
-#EXTINF:-1 group-title="Canais | 4K",RECORD 4K [TESTE]
-http://psrv.io:80/883698111244/blendediptv.me/26182
-#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://z4.vc/PJi",Record News FHD
-http://psrv.io:80/883698111244/blendediptv.me/18803
-#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://z4.vc/s1i",Record News FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/25204
-#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://z4.vc/Ncd",Record News HD
-http://psrv.io:80/883698111244/blendediptv.me/18577
-#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://z4.vc/JOU",Record News SD
-http://psrv.io:80/883698111244/blendediptv.me/18578
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/Tv1",RecordTV Cabralia BA HD
-http://psrv.io:80/883698111244/blendediptv.me/18496
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/oth",RecordTV Cabralia BA SD
-http://psrv.io:80/883698111244/blendediptv.me/18495
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/mF2",RecordTV DF HD
-http://psrv.io:80/883698111244/blendediptv.me/18494
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/m2C",RecordTV MG HD
-http://psrv.io:80/883698111244/blendediptv.me/18501
-#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://z4.vc/xeN",RecordTV News SD
-http://psrv.io:80/883698111244/blendediptv.me/22216
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/Kvw",RecordTV PR HD
-http://psrv.io:80/883698111244/blendediptv.me/22471
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/P7d",RecordTV Rio FHD
-http://psrv.io:80/883698111244/blendediptv.me/18748
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/iZP",RecordTV Rio HD
-http://psrv.io:80/883698111244/blendediptv.me/18503
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/IXu",RecordTV RS HD
-http://psrv.io:80/883698111244/blendediptv.me/18492
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/Kvw",RecordTV Sao Jose Rio Preto HD
-http://psrv.io:80/883698111244/blendediptv.me/29021
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/qPi",RecordTV SD
-http://psrv.io:80/883698111244/blendediptv.me/22277
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/vRV",RecordTV Sergipe HD
-http://psrv.io:80/883698111244/blendediptv.me/22474
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/vUq",RecordTV SP FHD
-http://psrv.io:80/883698111244/blendediptv.me/18765
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/DDD",RecordTV SP FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/25221
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/MsE",RecordTV SP HD
-http://psrv.io:80/883698111244/blendediptv.me/18575
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/BKM",RecordTV SP SD
-http://psrv.io:80/883698111244/blendediptv.me/18579
-#EXTINF:-1 group-title="Canais | Internacionais",RED BULL TV
-http://psrv.io:80/883698111244/blendediptv.me/26426
+http://pfsv.io:80/015029529493/blendediptv.me/527
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/l5p",Premiere 4 SD
+http://pfsv.io:80/015029529493/blendediptv.me/540
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/l5p",Premiere 5 FHD
+http://pfsv.io:80/015029529493/blendediptv.me/528
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/l5p",Premiere 5 SD
+http://pfsv.io:80/015029529493/blendediptv.me/541
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/l5p",Premiere 6 FHD
+http://pfsv.io:80/015029529493/blendediptv.me/529
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/l5p",Premiere 6 SD
+http://pfsv.io:80/015029529493/blendediptv.me/542
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/l5p",Premiere 7 FHD
+http://pfsv.io:80/015029529493/blendediptv.me/530
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/l5p",Premiere 7 SD
+http://pfsv.io:80/015029529493/blendediptv.me/543
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/l5p",Premiere Clubes FHD
+http://pfsv.io:80/015029529493/blendediptv.me/524
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://p6.vc/f0a",Premiere Clubes FHD [H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30287
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/l5p",Premiere Clubes SD
+http://pfsv.io:80/015029529493/blendediptv.me/544
+#EXTINF:-1 group-title="Canais | Jogos & Eventos" tvg-logo="LINK_LOGO",Premiere Internacional
+http://pfsv.io:80/015029529493/blendediptv.me/501
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://p6.vc/fZ0",Prime Box Brasil FHD
+http://pfsv.io:80/015029529493/blendediptv.me/104
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://p6.vc/fZ0",Prime Box Brasil FHD [H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30190
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://p6.vc/fZ0",Prime Box Brasil HD
+http://pfsv.io:80/015029529493/blendediptv.me/113
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://p6.vc/fZ0",Prime Box Brasil SD
+http://pfsv.io:80/015029529493/blendediptv.me/122
+#EXTINF:-1 group-title="Canais | Jogos & Eventos",Rai Italia HD
+http://pfsv.io:80/015029529493/blendediptv.me/33403
+#EXTINF:-1 group-title="Canais | Religiosos" tvg-logo="LINK_LOGO",RCI SD
+http://pfsv.io:80/015029529493/blendediptv.me/550
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://p6.vc/fZ3",Record News FHD
+http://pfsv.io:80/015029529493/blendediptv.me/511
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://p6.vc/fZ3",Record News HD
+http://pfsv.io:80/015029529493/blendediptv.me/515
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://p6.vc/fZ3",Record News SD
+http://pfsv.io:80/015029529493/blendediptv.me/521
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/Tv1",RecordTV BA HD
+http://pfsv.io:80/015029529493/blendediptv.me/61
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/Tv1",RecordTV BA SD
+http://pfsv.io:80/015029529493/blendediptv.me/78
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/Tv1",RecordTV BELEM HD
+http://pfsv.io:80/015029529493/blendediptv.me/62
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/Tv1",RecordTV Belem SD
+http://pfsv.io:80/015029529493/blendediptv.me/84
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/Tv1",RecordTV Campinas HD
+http://pfsv.io:80/015029529493/blendediptv.me/32542
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/Tv1",RecordTV Campinas SD
+http://pfsv.io:80/015029529493/blendediptv.me/32540
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/Tv1",RecordTV DF HD
+http://pfsv.io:80/015029529493/blendediptv.me/60
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/Tv1",RecordTV DF SD
+http://pfsv.io:80/015029529493/blendediptv.me/79
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/Tv1",RecordTV Espirito Santo SD
+http://pfsv.io:80/015029529493/blendediptv.me/32541
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/Tv1",RecordTV GO HD
+http://pfsv.io:80/015029529493/blendediptv.me/63
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/Tv1",RecordTV GO SD
+http://pfsv.io:80/015029529493/blendediptv.me/85
+#EXTINF:-1 group-title="Canais | Abertos",RECORDTV H265
+http://pfsv.io:80/015029529493/blendediptv.me/30178
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/Tv1",RecordTV MG HD
+http://pfsv.io:80/015029529493/blendediptv.me/58
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/Tv1",RecordTV MG SD
+http://pfsv.io:80/015029529493/blendediptv.me/77
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://p6.vc/fZ3",RecordTV News FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30197
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/Tv1",RecordTV RJ HD
+http://pfsv.io:80/015029529493/blendediptv.me/57
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/Tv1",RecordTV RJ SD
+http://pfsv.io:80/015029529493/blendediptv.me/76
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/Tv1",RecordTV RS HD
+http://pfsv.io:80/015029529493/blendediptv.me/59
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/Tv1",RecordTV RS SD
+http://pfsv.io:80/015029529493/blendediptv.me/80
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/Tv1",RecordTV SP FHD
+http://pfsv.io:80/015029529493/blendediptv.me/45
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/Tv1",RecordTV SP HD
+http://pfsv.io:80/015029529493/blendediptv.me/52
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/Tv1",RecordTV SP SD
+http://pfsv.io:80/015029529493/blendediptv.me/67
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/Tv1",RecordTV SP2 HD
+http://pfsv.io:80/015029529493/blendediptv.me/53
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/Tv1",RecordTV SP2 SD
+http://pfsv.io:80/015029529493/blendediptv.me/68
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/Tv1",RecordTV Vitoria SD
+http://pfsv.io:80/015029529493/blendediptv.me/34014
+#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://p6.vc/fZ9",RecordTV SP [4K]
+http://pfsv.io:80/015029529493/blendediptv.me/583
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/RnA",Rede Brasil SD
-http://psrv.io:80/883698111244/blendediptv.me/18574
-#EXTINF:-1 group-title="Canais | Religiosos",Rede Gospel FHD
-http://psrv.io:80/883698111244/blendediptv.me/28398
-#EXTINF:-1 group-title="Canais | Religiosos" tvg-logo="http://z4.vc/frB",Rede Vida FHD
-http://psrv.io:80/883698111244/blendediptv.me/18750
-#EXTINF:-1 group-title="Canais | Religiosos" tvg-logo="http://z4.vc/rJP",Rede Vida HD
-http://psrv.io:80/883698111244/blendediptv.me/18504
-#EXTINF:-1 group-title="Canais | Religiosos" tvg-logo="http://z4.vc/DPy",Rede Vida SD
-http://psrv.io:80/883698111244/blendediptv.me/18571
+http://pfsv.io:80/015029529493/blendediptv.me/87
+#EXTINF:-1 group-title="Canais | Religiosos",Rede Familia SD
+http://pfsv.io:80/015029529493/blendediptv.me/34015
+#EXTINF:-1 group-title="Canais | Religiosos",Rede Gospel SD
+http://pfsv.io:80/015029529493/blendediptv.me/34016
+#EXTINF:-1 group-title="Canais | Religiosos" tvg-logo="LINK_LOGO",Rede Vida FHD
+http://pfsv.io:80/015029529493/blendediptv.me/545
+#EXTINF:-1 group-title="Canais | Religiosos",REDE VIDA FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30296
+#EXTINF:-1 group-title="Canais | Religiosos" tvg-logo="LINK_LOGO",Rede Vida HD
+http://pfsv.io:80/015029529493/blendediptv.me/547
+#EXTINF:-1 group-title="Canais | Religiosos" tvg-logo="LINK_LOGO",Rede Vida SD
+http://pfsv.io:80/015029529493/blendediptv.me/551
+#EXTINF:-1 group-title="Canais | 4K" tvg-logo="LINK_LOGO",RedeTV News [4K]
+http://pfsv.io:80/015029529493/blendediptv.me/598
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/tkR",RedeTV! FHD
-http://psrv.io:80/883698111244/blendediptv.me/18751
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/heG",RedeTV! HD
-http://psrv.io:80/883698111244/blendediptv.me/18572
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/lHy",RedeTV! SD
-http://psrv.io:80/883698111244/blendediptv.me/18573
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://z4.vc/SKJ",REDETV! [4K]
-http://psrv.io:80/883698111244/blendediptv.me/26183
-#EXTINF:-1 group-title="Canais | Religiosos",RIT SD
-http://psrv.io:80/883698111244/blendediptv.me/28403
-#EXTINF:-1 group-title="Canais | Internacionais",[US] CBSN
-http://psrv.io:80/883698111244/blendediptv.me/26433
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/RXH",SBT FHD
-http://psrv.io:80/883698111244/blendediptv.me/18764
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/G2I",SBT HD
-http://psrv.io:80/883698111244/blendediptv.me/18569
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/okI",SBT PR SD
-http://psrv.io:80/883698111244/blendediptv.me/22470
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/oyy",SBT RJ HD
-http://psrv.io:80/883698111244/blendediptv.me/22458
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/MSJ",SBT SD
-http://psrv.io:80/883698111244/blendediptv.me/18570
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://z4.vc/Vpq",SBT [4K]
-http://psrv.io:80/883698111244/blendediptv.me/26188
-#EXTINF:-1 group-title="Canais | Variedades",Shop Time HD
-http://psrv.io:80/883698111244/blendediptv.me/28404
-#EXTINF:-1 group-title="Canais | Internacionais",SIC PORTUGAL SD
-http://psrv.io:80/883698111244/blendediptv.me/26437
-#EXTINF:-1 group-title="Canais | Documentários",Smithsonian FHD
-http://psrv.io:80/883698111244/blendediptv.me/26828
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/YP8",Sony FHD
-http://psrv.io:80/883698111244/blendediptv.me/18850
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/FM8",Sony FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/25315
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/hkn",Sony HD
-http://psrv.io:80/883698111244/blendediptv.me/18714
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/npa",Sony SD
-http://psrv.io:80/883698111244/blendediptv.me/18715
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/kaZ",Sony SD
-http://psrv.io:80/883698111244/blendediptv.me/22331
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/hBI",Space FHD
-http://psrv.io:80/883698111244/blendediptv.me/18802
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/ao2",Space FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22169
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/EPt",Space HD
-http://psrv.io:80/883698111244/blendediptv.me/18564
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/zXZ",Space SD
-http://psrv.io:80/883698111244/blendediptv.me/18565
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://z4.vc/t2m",SPACE [4K]
-http://psrv.io:80/883698111244/blendediptv.me/27131
+http://pfsv.io:80/015029529493/blendediptv.me/48
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/tkR",RedeTV! HD
+http://pfsv.io:80/015029529493/blendediptv.me/54
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://p6.vc/f0q",RedeTv! FHD [H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30180
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/tkR",RedeTV! SD
+http://pfsv.io:80/015029529493/blendediptv.me/69
+#EXTINF:-1 group-title="Canais | Religiosos" tvg-logo="LINK_LOGO",RIT TV SD
+http://pfsv.io:80/015029529493/blendediptv.me/549
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/XKO",SBT (PE) Caruaru HD
+http://pfsv.io:80/015029529493/blendediptv.me/31316
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/XKO",SBT FHD
+http://pfsv.io:80/015029529493/blendediptv.me/46
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://p6.vc/f0d",SBT FHD [H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30179
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://p6.vc/f0d",SBT Goias HD
+http://pfsv.io:80/015029529493/blendediptv.me/34017
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/XKO",SBT HD
+http://pfsv.io:80/015029529493/blendediptv.me/55
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/XKO",SBT Interior SP SD
+http://pfsv.io:80/015029529493/blendediptv.me/71
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/XKO",SBT SD
+http://pfsv.io:80/015029529493/blendediptv.me/70
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://p6.vc/f0d",SBT TV Aratu Bahia HD
+http://pfsv.io:80/015029529493/blendediptv.me/34018
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://p6.vc/f0d",SBT TV Cidade Verde Piaui HD
+http://pfsv.io:80/015029529493/blendediptv.me/34019
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://p6.vc/f0d",SBT TV Jornal Pernambuco SD
+http://pfsv.io:80/015029529493/blendediptv.me/34020
+#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://p6.vc/f0d",SBT SP [4K]
+http://pfsv.io:80/015029529493/blendediptv.me/587
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="LINK_LOGO",Smithsonian Channel FHD
+http://pfsv.io:80/015029529493/blendediptv.me/178
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="LINK_LOGO",SmithSonian Channel HD
+http://pfsv.io:80/015029529493/blendediptv.me/193
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="LINK_LOGO",SmithSonian Channel SD
+http://pfsv.io:80/015029529493/blendediptv.me/208
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="LINK_LOGO",Smithsonian FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30261
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="LINK_LOGO",Sony FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30216
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="LINK_LOGO",Sony HD [LEG]
+http://pfsv.io:80/015029529493/blendediptv.me/243
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="LINK_LOGO",Sony SD [LEG]
+http://pfsv.io:80/015029529493/blendediptv.me/244
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/ao2",Space FHD
+http://pfsv.io:80/015029529493/blendediptv.me/282
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="LINK_LOGO",Space FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30214
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="LINK_LOGO",Space FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30220
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/ao2",Space HD
+http://pfsv.io:80/015029529493/blendediptv.me/313
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="LINK_LOGO",Space HD[LEG]
+http://pfsv.io:80/015029529493/blendediptv.me/237
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/ao2",Space SD
+http://pfsv.io:80/015029529493/blendediptv.me/338
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="LINK_LOGO",Space SD [LEG]
+http://pfsv.io:80/015029529493/blendediptv.me/238
+#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://p6.vc/f0m",Space [4K]
+http://pfsv.io:80/015029529493/blendediptv.me/596
+#EXTINF:-1 group-title="Canais | SporTV" tvg-logo="http://z4.vc/ftu",SporTV HD
+http://pfsv.io:80/015029529493/blendediptv.me/556
 #EXTINF:-1 group-title="Canais | SporTV" tvg-logo="http://z4.vc/Fl2",SporTV 2 FHD
-http://psrv.io:80/883698111244/blendediptv.me/18763
-#EXTINF:-1 group-title="Canais | SporTV" tvg-logo="http://z4.vc/JSJ",SporTV 2 FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22168
-#EXTINF:-1 group-title="Canais | SporTV" tvg-logo="http://z4.vc/7lY",SporTV 2 HD
-http://psrv.io:80/883698111244/blendediptv.me/18561
-#EXTINF:-1 group-title="Canais | SporTV" tvg-logo="http://z4.vc/P0b",SporTV 2 SD
-http://psrv.io:80/883698111244/blendediptv.me/18562
+http://pfsv.io:80/015029529493/blendediptv.me/553
+#EXTINF:-1 group-title="Canais | SporTV" tvg-logo="http://p6.vc/f0E",SporTV 2 FHD [H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30291
+#EXTINF:-1 group-title="Canais | SporTV" tvg-logo="http://z4.vc/Fl2",SporTV 2 HD
+http://pfsv.io:80/015029529493/blendediptv.me/557
+#EXTINF:-1 group-title="Canais | SporTV" tvg-logo="http://z4.vc/Fl2",SporTV 2 SD
+http://pfsv.io:80/015029529493/blendediptv.me/560
 #EXTINF:-1 group-title="Canais | SporTV" tvg-logo="http://z4.vc/dyY",SporTV 3 FHD
-http://psrv.io:80/883698111244/blendediptv.me/18762
-#EXTINF:-1 group-title="Canais | SporTV" tvg-logo="http://z4.vc/Ya4",SporTV 3 FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22167
-#EXTINF:-1 group-title="Canais | SporTV" tvg-logo="http://z4.vc/PUQ",SporTV 3 HD
-http://psrv.io:80/883698111244/blendediptv.me/18559
-#EXTINF:-1 group-title="Canais | SporTV" tvg-logo="http://z4.vc/GGG",SporTV 3 SD
-http://psrv.io:80/883698111244/blendediptv.me/18560
-#EXTINF:-1 group-title="Canais | SporTV" tvg-logo="http://z4.vc/y9H",SporTV 4K
-http://psrv.io:80/883698111244/blendediptv.me/18439
+http://pfsv.io:80/015029529493/blendediptv.me/554
+#EXTINF:-1 group-title="Canais | SporTV" tvg-logo="http://p6.vc/f0F",SporTV 3 FHD [H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30292
+#EXTINF:-1 group-title="Canais | SporTV" tvg-logo="http://z4.vc/dyY",SporTV 3 HD
+http://pfsv.io:80/015029529493/blendediptv.me/558
+#EXTINF:-1 group-title="Canais | SporTV" tvg-logo="http://z4.vc/dyY",SporTV 3 SD
+http://pfsv.io:80/015029529493/blendediptv.me/561
 #EXTINF:-1 group-title="Canais | SporTV" tvg-logo="http://z4.vc/ftu",SporTV FHD
-http://psrv.io:80/883698111244/blendediptv.me/18761
-#EXTINF:-1 group-title="Canais | SporTV" tvg-logo="http://z4.vc/SlI",SporTV FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22166
-#EXTINF:-1 group-title="Canais | SporTV" tvg-logo="http://z4.vc/ygd",SporTV HD
-http://psrv.io:80/883698111244/blendediptv.me/18558
-#EXTINF:-1 group-title="Canais | SporTV" tvg-logo="http://z4.vc/Ffl",SporTV SD
-http://psrv.io:80/883698111244/blendediptv.me/18563
-#EXTINF:-1 group-title="Canais | SporTV" tvg-logo="http://z4.vc/tDf",SPORTV [4K]
-http://psrv.io:80/883698111244/blendediptv.me/26190
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/AiX",Studio Universal FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22165
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/IU1",Studio Universal HD
-http://psrv.io:80/883698111244/blendediptv.me/18556
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/6ft",Studio Universal SD
-http://psrv.io:80/883698111244/blendediptv.me/18557
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/7Na",Syfy FHD
-http://psrv.io:80/883698111244/blendediptv.me/18800
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/j1e",Syfy FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22133
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/yWZ",Syfy HD
-http://psrv.io:80/883698111244/blendediptv.me/18566
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/yZB",Syfy SD
-http://psrv.io:80/883698111244/blendediptv.me/18567
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/RDY",TBS FHD
-http://psrv.io:80/883698111244/blendediptv.me/18799
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/lAu",TBS FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22164
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/lL4",TBS HD
-http://psrv.io:80/883698111244/blendediptv.me/18554
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/6rM",TBS SD
-http://psrv.io:80/883698111244/blendediptv.me/18555
+http://pfsv.io:80/015029529493/blendediptv.me/555
+#EXTINF:-1 group-title="Canais | SporTV" tvg-logo="http://p6.vc/f0f",SporTV FHD [H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30293
+#EXTINF:-1 group-title="Canais | SporTV" tvg-logo="http://z4.vc/ftu",SporTV SD
+http://pfsv.io:80/015029529493/blendediptv.me/559
+#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://p6.vc/f0f",SporTV [4K]
+http://pfsv.io:80/015029529493/blendediptv.me/589
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/AiX",Studio Universal FHD
+http://pfsv.io:80/015029529493/blendediptv.me/283
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="LINK_LOGO",Studio Universal FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30221
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/AiX",Studio Universal HD
+http://pfsv.io:80/015029529493/blendediptv.me/320
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/AiX",Studio Universal SD
+http://pfsv.io:80/015029529493/blendediptv.me/346
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/j1e",SYFY FHD
+http://pfsv.io:80/015029529493/blendediptv.me/284
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="LINK_LOGO",SYFY FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30222
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/j1e",SYFY HD
+http://pfsv.io:80/015029529493/blendediptv.me/312
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/j1e",SYFY SD
+http://pfsv.io:80/015029529493/blendediptv.me/337
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/lAu",TBS FHD
+http://pfsv.io:80/015029529493/blendediptv.me/285
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="LINK_LOGO",TBS FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30223
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/lAu",TBS HD
+http://pfsv.io:80/015029529493/blendediptv.me/321
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/lAu",TBS SD
+http://pfsv.io:80/015029529493/blendediptv.me/347
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/9cn",TCM SD
-http://psrv.io:80/883698111244/blendediptv.me/18553
+http://pfsv.io:80/015029529493/blendediptv.me/339
 #EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/cyv",Telecine Action FHD
-http://psrv.io:80/883698111244/blendediptv.me/18760
-#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/bKl",Telecine Action FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22163
-#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/wYg",Telecine Action HD
-http://psrv.io:80/883698111244/blendediptv.me/18551
-#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/2ne",Telecine Action SD
-http://psrv.io:80/883698111244/blendediptv.me/18552
-#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/KyT",Telecine Cult FHD
-http://psrv.io:80/883698111244/blendediptv.me/18798
-#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/JWO",Telecine Cult FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22162
-#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/cuv",Telecine Cult HD
-http://psrv.io:80/883698111244/blendediptv.me/18549
-#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/BeC",Telecine Cult SD
-http://psrv.io:80/883698111244/blendediptv.me/18550
-#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/d5H",Telecine Fun FHD
-http://psrv.io:80/883698111244/blendediptv.me/18759
-#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/y6K",Telecine Fun FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22161
-#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/7vJ",Telecine Fun HD
-http://psrv.io:80/883698111244/blendediptv.me/18547
+http://pfsv.io:80/015029529493/blendediptv.me/562
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://p6.vc/Sc",Telecine Action FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30242
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/cyv",Telecine Action HD
+http://pfsv.io:80/015029529493/blendediptv.me/568
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="LINK_LOGO",Telecine Action HD [LEG]
+http://pfsv.io:80/015029529493/blendediptv.me/219
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/cyv",Telecine Action SD
+http://pfsv.io:80/015029529493/blendediptv.me/574
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="LINK_LOGO",Telecine Action SD [LEG]
+http://pfsv.io:80/015029529493/blendediptv.me/220
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/JWO",Telecine Cult FHD
+http://pfsv.io:80/015029529493/blendediptv.me/567
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://p6.vc/Sd",Telecine Cult FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30243
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/JWO",Telecine Cult HD
+http://pfsv.io:80/015029529493/blendediptv.me/569
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="LINK_LOGO",Telecine Cult HD [LEG]
+http://pfsv.io:80/015029529493/blendediptv.me/246
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/JWO",Telecine Cult SD
+http://pfsv.io:80/015029529493/blendediptv.me/575
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="LINK_LOGO",Telecine Cult SD [LEG]
+http://pfsv.io:80/015029529493/blendediptv.me/245
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/dpl",Telecine FUN FHD
+http://pfsv.io:80/015029529493/blendediptv.me/563
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://p6.vc/Se",Telecine Fun FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30244
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/dpl",Telecine FUN HD
+http://pfsv.io:80/015029529493/blendediptv.me/570
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="LINK_LOGO",Telecine Fun HD [LEG]
+http://pfsv.io:80/015029529493/blendediptv.me/221
 #EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/dpl",Telecine Fun SD
-http://psrv.io:80/883698111244/blendediptv.me/18548
-#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/Sq4",Telecine Pipoca FHD
-http://psrv.io:80/883698111244/blendediptv.me/18758
-#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/dl3",Telecine Pipoca FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22160
+http://pfsv.io:80/015029529493/blendediptv.me/576
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="LINK_LOGO",Telecine Fun SD [LEG]
+http://pfsv.io:80/015029529493/blendediptv.me/222
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/8dT",Telecine Pipoca FHD
+http://pfsv.io:80/015029529493/blendediptv.me/564
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://p6.vc/Sf",Telecine Pipoca FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30245
 #EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/8dT",Telecine Pipoca HD
-http://psrv.io:80/883698111244/blendediptv.me/18545
-#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/qp8",Telecine Pipoca SD
-http://psrv.io:80/883698111244/blendediptv.me/18546
-#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/ZYg",Telecine Premium FHD
-http://psrv.io:80/883698111244/blendediptv.me/18757
-#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/4S2",Telecine Premium FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22159
-#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/RwJ",Telecine Premium HD
-http://psrv.io:80/883698111244/blendediptv.me/18543
+http://pfsv.io:80/015029529493/blendediptv.me/572
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="LINK_LOGO",Telecine Pipoca HD [LEG]
+http://pfsv.io:80/015029529493/blendediptv.me/223
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/8dT",Telecine Pipoca SD
+http://pfsv.io:80/015029529493/blendediptv.me/578
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="LINK_LOGO",Telecine Pipoca SD [LEG]
+http://pfsv.io:80/015029529493/blendediptv.me/224
+#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://z4.vc/dl3",Telecine Pipoca [4K]
+http://pfsv.io:80/015029529493/blendediptv.me/5345
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/jgo",Telecine Premium FHD
+http://pfsv.io:80/015029529493/blendediptv.me/565
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://p6.vc/Sg",Telecine Premium FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30246
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/jgo",Telecine Premium HD
+http://pfsv.io:80/015029529493/blendediptv.me/573
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="LINK_LOGO",Telecine Premium HD [LEG]
+http://pfsv.io:80/015029529493/blendediptv.me/225
 #EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/jgo",Telecine Premium SD
-http://psrv.io:80/883698111244/blendediptv.me/18544
-#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/lMo",Telecine Touch FHD
-http://psrv.io:80/883698111244/blendediptv.me/18756
-#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/OhL",Telecine Touch FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22158
-#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/jJj",Telecine Touch HD
-http://psrv.io:80/883698111244/blendediptv.me/18541
+http://pfsv.io:80/015029529493/blendediptv.me/579
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="LINK_LOGO",Telecine Premium SD [LEG]
+http://pfsv.io:80/015029529493/blendediptv.me/226
+#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://p6.vc/Sg",Telecine Premium [4K]
+http://pfsv.io:80/015029529493/blendediptv.me/597
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/c1M",Telecine Touch FHD
+http://pfsv.io:80/015029529493/blendediptv.me/566
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://p6.vc/Sh",Telecine Touch FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30247
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/c1M",Telecine Touch HD
+http://pfsv.io:80/015029529493/blendediptv.me/571
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="LINK_LOGO",Telecine Touch HD [LEG]
+http://pfsv.io:80/015029529493/blendediptv.me/227
 #EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/c1M",Telecine Touch SD
-http://psrv.io:80/883698111244/blendediptv.me/18542
+http://pfsv.io:80/015029529493/blendediptv.me/577
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="LINK_LOGO",Telecine Touch SD [LEG]
+http://pfsv.io:80/015029529493/blendediptv.me/228
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/poc",Terra Viva SD
-http://psrv.io:80/883698111244/blendediptv.me/18540
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/a9V",TLC FHD
-http://psrv.io:80/883698111244/blendediptv.me/18797
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/WoP",TLC FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22128
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/fUs",TLC HD
-http://psrv.io:80/883698111244/blendediptv.me/18538
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/r69",TLC SD
-http://psrv.io:80/883698111244/blendediptv.me/18539
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/RrC",TNT FHD
-http://psrv.io:80/883698111244/blendediptv.me/18796
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/94U",TNT FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22157
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/C6Y",TNT HD
-http://psrv.io:80/883698111244/blendediptv.me/18536
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/VGk",TNT SD
-http://psrv.io:80/883698111244/blendediptv.me/18537
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/cM3",TNT Series FHD
-http://psrv.io:80/883698111244/blendediptv.me/18795
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/KEC",TNT Series FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22156
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/CVR",TNT Series HD
-http://psrv.io:80/883698111244/blendediptv.me/18534
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/gQ3",TNT Series SD
-http://psrv.io:80/883698111244/blendediptv.me/18535
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://z4.vc/8Sd",TNT SERIES [4K]
-http://psrv.io:80/883698111244/blendediptv.me/26696
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://z4.vc/SDg",TNT [4K]
-http://psrv.io:80/883698111244/blendediptv.me/26186
+http://pfsv.io:80/015029529493/blendediptv.me/88
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/WoP",TLC FHD
+http://pfsv.io:80/015029529493/blendediptv.me/286
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="LINK_LOGO",TLC FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30229
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/WoP",TLC HD
+http://pfsv.io:80/015029529493/blendediptv.me/314
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/WoP",TLC SD
+http://pfsv.io:80/015029529493/blendediptv.me/340
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/94U",TNT FHD
+http://pfsv.io:80/015029529493/blendediptv.me/287
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="LINK_LOGO",TNT FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30224
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/94U",TNT HD
+http://pfsv.io:80/015029529493/blendediptv.me/315
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="LINK_LOGO",TNT HD [LEG]
+http://pfsv.io:80/015029529493/blendediptv.me/229
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/94U",TNT SD
+http://pfsv.io:80/015029529493/blendediptv.me/341
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="LINK_LOGO",TNT SD [LEG]
+http://pfsv.io:80/015029529493/blendediptv.me/230
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/KEC",TNT Serie HD
+http://pfsv.io:80/015029529493/blendediptv.me/316
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/KEC",TNT Serie SD
+http://pfsv.io:80/015029529493/blendediptv.me/342
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/KEC",TNT Series FHD
+http://pfsv.io:80/015029529493/blendediptv.me/288
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="LINK_LOGO",TNT Series FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30225
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="LINK_LOGO",TNT Series HD [LEG]
+http://pfsv.io:80/015029529493/blendediptv.me/239
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="LINK_LOGO",TNT Series SD [LEG]
+http://pfsv.io:80/015029529493/blendediptv.me/240
+#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://p6.vc/f0p",TNT Series [4K]
+http://pfsv.io:80/015029529493/blendediptv.me/602
+#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://p6.vc/f0o",TNT [4K]
+http://pfsv.io:80/015029529493/blendediptv.me/601
 #EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/7YA",Tooncast SD
-http://psrv.io:80/883698111244/blendediptv.me/18533
-#EXTINF:-1 group-title="Canais | Variedades",Travel Box Brasil FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/25217
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/SHx",Globo EPTV Ribeirão Preto
-http://psrv.io:80/883698111244/blendediptv.me/18522
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/67c",TruTV SD
-http://psrv.io:80/883698111244/blendediptv.me/18523
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/76t",TV Anhaguera FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22124
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/76t",TV Anhaguera HD
-http://psrv.io:80/883698111244/blendediptv.me/28062
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/0Eb",TV Aparecida SD
-http://psrv.io:80/883698111244/blendediptv.me/18530
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/XKO",Tv Aratu SBT Bahia HD
-http://psrv.io:80/883698111244/blendediptv.me/28059
+http://pfsv.io:80/015029529493/blendediptv.me/160
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://p6.vc/f0t",Travel Box Brasil FHD [H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30188
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/SHx",TruTV FHD
+http://pfsv.io:80/015029529493/blendediptv.me/289
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="LINK_LOGO",TruTV FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30232
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/SHx",TruTV HD
+http://pfsv.io:80/015029529493/blendediptv.me/323
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/SHx",TruTV SD
+http://pfsv.io:80/015029529493/blendediptv.me/350
+#EXTINF:-1 group-title="Canais | Religiosos",TV APARECIDA FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30297
+#EXTINF:-1 group-title="Canais | Religiosos" tvg-logo="http://z4.vc/0Eb",Tv Aparecida SD
+http://pfsv.io:80/015029529493/blendediptv.me/548
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="LINK_LOGO",TV Brasil SD
+http://pfsv.io:80/015029529493/blendediptv.me/89
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/PVk",TV Camara SD
-http://psrv.io:80/883698111244/blendediptv.me/18528
+http://pfsv.io:80/015029529493/blendediptv.me/74
+#EXTINF:-1 group-title="Canais | Abertos",TV CULTURA  FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30183
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/MJK",TV Cultura FHD
-http://psrv.io:80/883698111244/blendediptv.me/18752
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/BEU",TV Cultura HD
-http://psrv.io:80/883698111244/blendediptv.me/18505
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/7FM",TV Cultura SD
-http://psrv.io:80/883698111244/blendediptv.me/18506
+http://pfsv.io:80/015029529493/blendediptv.me/47
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/MJK",TV Cultura HD
+http://pfsv.io:80/015029529493/blendediptv.me/64
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/MJK",TV Cultura SD
+http://pfsv.io:80/015029529493/blendediptv.me/90
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/AME",TV Escola SD
-http://psrv.io:80/883698111244/blendediptv.me/18527
+http://pfsv.io:80/015029529493/blendediptv.me/75
+#EXTINF:-1 group-title="Canais | Jogos & Eventos",TV FLA
+http://pfsv.io:80/015029529493/blendediptv.me/33378
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://p6.vc/f0n",Tv Gazeta FHD [H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30189
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/ARG",TV Gazeta SP FHD
+http://pfsv.io:80/015029529493/blendediptv.me/49
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/ARG",TV Gazeta SP HD
-http://psrv.io:80/883698111244/blendediptv.me/18526
+http://pfsv.io:80/015029529493/blendediptv.me/56
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/ARG",TV Gazeta SP SD
+http://pfsv.io:80/015029529493/blendediptv.me/82
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/VtA",TV Justica SD
-http://psrv.io:80/883698111244/blendediptv.me/18531
-#EXTINF:-1 group-title="Canais | Religiosos",TV Novo Tempo FHD
-http://psrv.io:80/883698111244/blendediptv.me/28076
-#EXTINF:-1 group-title="Canais | Religiosos",TV Novo Tempo SD
-http://psrv.io:80/883698111244/blendediptv.me/28075
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/S4M",TV Ra-Tim-Bum FHD
-http://psrv.io:80/883698111244/blendediptv.me/18793
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/I7O",TV Ra-Tim-Bum FHD
-http://psrv.io:80/883698111244/blendediptv.me/25256
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/0Yb",TV Ra-Tim-Bum HD
-http://psrv.io:80/883698111244/blendediptv.me/18524
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/zvq",TV Ra-Tim-Bum SD
-http://psrv.io:80/883698111244/blendediptv.me/18525
+http://pfsv.io:80/015029529493/blendediptv.me/73
+#EXTINF:-1 group-title="Canais | Religiosos",TV NOVO TEMPO FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30294
+#EXTINF:-1 group-title="Canais | Religiosos",TV Pai Eterno
+http://pfsv.io:80/015029529493/blendediptv.me/5342
+#EXTINF:-1 group-title="Canais | Infantis",TV RA TIM BUM H265
+http://pfsv.io:80/015029529493/blendediptv.me/30265
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/I7O",TV RA-TIM-BUM FHD
+http://pfsv.io:80/015029529493/blendediptv.me/132
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/I7O",TV RA-TIM-BUM HD
+http://pfsv.io:80/015029529493/blendediptv.me/148
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/I7O",TV RA-TIM-BUM SD
+http://pfsv.io:80/015029529493/blendediptv.me/161
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/HLw",TV Senado SD
-http://psrv.io:80/883698111244/blendediptv.me/18532
-#EXTINF:-1 group-title="Canais | Internacionais",TVR 1 [TESTE]
-http://psrv.io:80/883698111244/blendediptv.me/27893
-#EXTINF:-1 group-title="Canais | Internacionais",TVR 2 [TESTE]
-http://psrv.io:80/883698111244/blendediptv.me/27894
-#EXTINF:-1 group-title="Canais | Internacionais",TVR 3 [TESTE]
-http://psrv.io:80/883698111244/blendediptv.me/27895
-#EXTINF:-1 group-title="Canais | Internacionais",TVR CLUJ
-http://psrv.io:80/883698111244/blendediptv.me/28047
-#EXTINF:-1 group-title="Canais | Abertos",TVR Craiova
-http://psrv.io:80/883698111244/blendediptv.me/28048
-#EXTINF:-1 group-title="Canais | Internacionais",TVR Moldova [TESTE]
-http://psrv.io:80/883698111244/blendediptv.me/27896
-#EXTINF:-1 group-title="Canais | Internacionais",TVR Targu Mures
-http://psrv.io:80/883698111244/blendediptv.me/28049
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/94M",Universal Channel FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22155
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/0j9",Universal Channel HD
-http://psrv.io:80/883698111244/blendediptv.me/18520
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/HlB",Universal Channel SD
-http://psrv.io:80/883698111244/blendediptv.me/22253
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/xf5",VH1 FHD
-http://psrv.io:80/883698111244/blendediptv.me/18791
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/InM",VH1 FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22154
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/6fr",VH1 HD
-http://psrv.io:80/883698111244/blendediptv.me/18518
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/Xhe",VH1 MegaHits SD
-http://psrv.io:80/883698111244/blendediptv.me/18517
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/KZh",VH1 SD
-http://psrv.io:80/883698111244/blendediptv.me/22252
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/VCv",Viva FHD
-http://psrv.io:80/883698111244/blendediptv.me/18755
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/LVI",Viva HD
-http://psrv.io:80/883698111244/blendediptv.me/18515
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/Pte",Viva SD
-http://psrv.io:80/883698111244/blendediptv.me/18516
+http://pfsv.io:80/015029529493/blendediptv.me/72
+#EXTINF:-1 group-title="Canais | Abertos",TV Univesp HD
+http://pfsv.io:80/015029529493/blendediptv.me/1066
+#EXTINF:-1 group-title="Canais | Abertos",TV Univesp SD
+http://pfsv.io:80/015029529493/blendediptv.me/1067
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/wGT",Universal Channel FHD
+http://pfsv.io:80/015029529493/blendediptv.me/290
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/wGT",Universal Channel HD
+http://pfsv.io:80/015029529493/blendediptv.me/317
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/wGT",Universal Channel SD
+http://pfsv.io:80/015029529493/blendediptv.me/343
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="LINK_LOGO",Universal Channel FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30230
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/InM",VH1 FHD
+http://pfsv.io:80/015029529493/blendediptv.me/291
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="LINK_LOGO",VH1 FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30231
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/InM",VH1 HD
+http://pfsv.io:80/015029529493/blendediptv.me/318
+#EXTINF:-1 group-title="Art & Music" tvg-logo="http://z4.vc/KZh",VH1 Mega Hits SD
+http://pfsv.io:80/015029529493/blendediptv.me/8
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/InM",VH1 SD
+http://pfsv.io:80/015029529493/blendediptv.me/344
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/6NU",Viva FHD
+http://pfsv.io:80/015029529493/blendediptv.me/105
+#EXTINF:-1 group-title="Canais | Religiosos",VIVA FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30298
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/6NU",Viva HD
+http://pfsv.io:80/015029529493/blendediptv.me/114
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/6NU",Viva SD
+http://pfsv.io:80/015029529493/blendediptv.me/123
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/4dc",Warner Channel FHD
-http://psrv.io:80/883698111244/blendediptv.me/18790
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/i3M",Warner Channel FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22153
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/W7o",Warner Channel HD
-http://psrv.io:80/883698111244/blendediptv.me/18513
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/QRs",Warner Channel SD
-http://psrv.io:80/883698111244/blendediptv.me/18514
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/HQF",Woohoo FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/22127
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/fUJ",Woohoo SD
-http://psrv.io:80/883698111244/blendediptv.me/18512
+http://pfsv.io:80/015029529493/blendediptv.me/297
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/4dc",Warner Channel HD
+http://pfsv.io:80/015029529493/blendediptv.me/319
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/4dc",Warner Channel SD
+http://pfsv.io:80/015029529493/blendediptv.me/345
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="LINK_LOGO",Warner FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30226
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="LINK_LOGO",Warner HD[LEG]
+http://pfsv.io:80/015029529493/blendediptv.me/241
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="LINK_LOGO",Warner SD [LEG]
+http://pfsv.io:80/015029529493/blendediptv.me/242
+#EXTINF:-1 group-title="Canais | Jogos & Eventos",WATCH ESPN
+http://pfsv.io:80/015029529493/blendediptv.me/33376
+#EXTINF:-1 group-title="Art & Music",WOOHOO  FHD[H265]
+http://pfsv.io:80/015029529493/blendediptv.me/30174
+#EXTINF:-1 group-title="Art & Music" tvg-logo="LINK_LOGO",WOOHOO FHD
+http://pfsv.io:80/015029529493/blendediptv.me/133
+#EXTINF:-1 group-title="Art & Music" tvg-logo="http://z4.vc/fUJ",WOOHOO HD
+http://pfsv.io:80/015029529493/blendediptv.me/14
+#EXTINF:-1 group-title="Art & Music" tvg-logo="http://z4.vc/fUJ",WOOHOO SD
+http://pfsv.io:80/015029529493/blendediptv.me/7
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="LINK_LOGO",Zoomoo SD
+http://pfsv.io:80/015029529493/blendediptv.me/163
